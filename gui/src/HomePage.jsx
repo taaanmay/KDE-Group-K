@@ -1,4 +1,5 @@
 import React from "react";
+import Dropdown from "./Dropdown";
 
 class HomePage extends React.Component {
 	constructor(props) {
@@ -6,31 +7,13 @@ class HomePage extends React.Component {
 		this.state = { clicked: false };
 	}
 
-	onCLick = async () => {
-		this.setState({ clicked: true });
-		fetch(
-			"https://dbpedia.org/sparql?query=" +
-				encodeURI("SELECT * WHERE { ?s ?p ?o } LIMIT 100") +
-				"&format=application%2Fsparql-results%2Bjson"
-		)
-			.then((response) => response.json())
-			.then((data) => {
-				console.log(data);
-			});
-	};
-
 	render() {
 		return (
 			<div className="homepage">
-				<div>
-					<button
-						className="send-query-button"
-						onClick={this.onCLick}
-					>
-						Send Query
-					</button>
-					{this.state.clicked ? <p>Clicked!</p> : <></>}
+				<div className="query-section">
+					<Dropdown />
 				</div>
+				<div className="result-section">{/* <Dropdown /> */}</div>
 			</div>
 		);
 	}

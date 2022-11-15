@@ -4,15 +4,24 @@
 	background-size: cover;
 	width: 100vw;
 	height: 100vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	/* display: flex;
+	justify-content: center; */
+	/* align-items: center; */
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color: #b9b4c1;
 }
 
+.query-section {
+	width: 40vw;
+	padding: 1%;
+}
+.result-section {
+	width: auto;
+	background-color: #fff;
+}
+
 button {
-	font-size: x-large;
+	/* font-size: x-large; */
 	background-color: #251f31;
 	stroke: none;
 	border: none;
@@ -20,4 +29,48 @@ button {
 	color: inherit;
 	padding: 5px 10px;
 	cursor: pointer;
+}
+
+.question .question-section {
+	display: inline-block;
+}
+
+.dropdown {
+	width: 40vw;
+	display: flex;
+	flex-direction: row;
+	/* align-items; */
+	/* justify-content: flex-start; */
+	/* align-items: left; */
+}
+
+.dropdown-column {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	margin: 5px;
+}
+
+.dropdown-option {
+	padding: 5px;
+	cursor: pointer;
+}
+.dropdown-option:hover {
+	background-color: #251f3144;
+}
+
+input {
+	width: fit-content;
+	min-width: 20px;
+	max-width: 20px;
+}
+
+form {
+	display: inline;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }

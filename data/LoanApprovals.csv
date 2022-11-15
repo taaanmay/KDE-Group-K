@@ -1,6 +1,4 @@
-Loan approvals  - banks and building societies - by year,,,,,,
-Year,New Houses,,Other Houses,,Totals,
-,Number,Value  ?m,Number,Value  ?m,Number,Value  ?m
+Year, New Houses Number, New Houses Value (m), Other Houses Number, Other Houses Value (m), Total Houses Number, Total Houses Value (m)
 1999,"32,688",3291.9,"45,772",4395.9,"78,460",7687.8
 2000,"33,229",3722.2,"47,471",5271.9,"80,700",8994.1
 2001,"29,202",3689,"39,668",5028.6,"68,870",8717.6

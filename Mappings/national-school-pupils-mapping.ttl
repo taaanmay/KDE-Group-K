@@ -1,0 +1,18 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+
+<#AddressTripleMap>
+	a rr:TriplesMap ;
+	rr:logicalTable [
+		rr:tableName "NationalSchoolPupils" 
+	] ;
+	rr:subjectMap [
+		rr:template "http://foo.example/Addresses" ;
+		rr:class dbpedia:Place ;
+	] ;
+	rr:predicateObjectMap [
+		rr:predicate foaf:name ;
+		rr:objectMap [ rr:column "COUNTY" ]
+	] ;
+	.

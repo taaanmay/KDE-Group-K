@@ -22,6 +22,13 @@
     <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
   </owl:ObjectProperty>
 
+  <owl:Class rdf:about="http://example.com/ns#Region">
+  </owl:Class>
+
+  <owl:Class rdf:about="http://example.com/ns#County">
+    <rdfs:subClassOf rdf:resource="http://example.com/ns#Region"/>
+  </owl:Class>
+
   <owl:Class rdf:about="http://example.com/ns#SecondHandHousePrice">
   </owl:Class>
 

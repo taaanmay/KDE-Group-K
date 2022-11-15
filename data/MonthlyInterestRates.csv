@@ -1,4 +1,4 @@
-﻿"STATISTIC","Statistic Label","TLIST(M1)","Month","C02196V02652","State","UNIT","VALUE"
+﻿STATISTIC,Statistic Label,TLIST(M1),Month,C02196V02652,State,UNIT,VALUE
 "CBM02C1","Variable interest rate and up to one year fixation on new housing loans","200301","2003M01","-","State","%","4.08"
 "CBM02C1","Variable interest rate and up to one year fixation on new housing loans","200302","2003M02","-","State","%","4.28"
 "CBM02C1","Variable interest rate and up to one year fixation on new housing loans","200303","2003M03","-","State","%","4.04"

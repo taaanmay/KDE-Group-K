@@ -1,0 +1,4 @@
+CSVFiles = ../data/AnnualNewPropertyPrices.csv
+mappingFile = ./new-property-prices.ttl
+outputFile = ./new-property-prices-output.ttl
+format = TURTLE

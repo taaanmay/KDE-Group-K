@@ -22,6 +22,33 @@
     <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
   </owl:ObjectProperty>
 
+  <owl:ObjectProperty rdf:about="http://example.com/ns#HasRegion">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdfs:domain rdf:resource="http://example.com/ns#AvgNewHousePrice"/>
+    <rdfs:domain rdf:resource="http://example.com/ns#SecondHandHousePrice"/>
+    <rdfs:range rdf:resource="http://example.com/ns#Region"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="http://example.com/ns#HasLoanApprovals">
+    <rdfs:domain rdf:resource="http://example.com/ns#Year"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="http://example.com/ns#YearName">
+    <rdfs:domain rdf:resource="http://example.com/ns#Year"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="http://example.com/ns#ApprovedBy">
+    <rdfs:domain rdf:resource="http://example.com/ns#SecondHandHousePrice"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:ObjectProperty>
+
+  <owl:ObjectProperty rdf:about="http://example.com/ns#RegionName">
+    <rdfs:domain rdf:resource="http://example.com/ns#Region"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </owl:ObjectProperty>
+
   <owl:Class rdf:about="http://example.com/ns#Region">
   </owl:Class>
 

@@ -1,0 +1,92 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix ex: <http://example.com/ns#>. 
+
+<#NewPropertyPrice>
+ 
+rr:logicalTable [ rr:tableName "NEWPROPERTYPRICE"];
+		
+	rr:subjectMap	[
+		rr:template "http://foo.example.org/NewProperty/{YEAR}";
+		rr:termType rr:IRI;
+		rr:class ex:PropertyPrice;
+	];		
+	
+	rr:predicateObjectMap [
+		rr:predicate foaf:Year;
+		rr:objectMap  [ 
+			rr:column "YEAR";
+			rr:datatype xsd:integer;
+			rr:termType rr:Literal;
+		];	
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate ex:National;
+		rr:objectMap  [ 
+			rr:column "National";
+			rr:termType rr:Literal;
+			rr:datatype xsd:integer;
+		];	
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate ex:Dublin;
+		rr:objectMap  [ 
+			rr:column "Dublin";
+			rr:termType rr:Literal;
+			rr:datatype xsd:integer;
+		];	
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate ex:Cork;
+		rr:objectMap  [ 
+			rr:column "Cork";
+			rr:termType rr:Literal;
+			rr:datatype xsd:integer;
+		];	
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate ex:Galway;
+		rr:objectMap  [ 
+			rr:column "Galway";
+			rr:termType rr:Literal;
+			rr:datatype xsd:integer;
+		];	
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate ex:Limerick;
+		rr:objectMap  [ 
+			rr:column "Limerick";
+			rr:termType rr:Literal;
+			rr:datatype xsd:integer;
+		];	
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate ex:Waterford;
+		rr:objectMap  [ 
+			rr:column "Wateford";
+			rr:termType rr:Literal;
+			rr:datatype xsd:integer;
+		];	
+	];
+
+	rr:predicateObjectMap [
+		rr:predicate ex:Others;
+		rr:objectMap  [ 
+			rr:column "Other Areas";
+			rr:termType rr:Literal;
+			rr:datatype xsd:integer;
+		];	
+	];
+
+	
+	
+ .

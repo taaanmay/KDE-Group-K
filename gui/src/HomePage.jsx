@@ -1,19 +1,24 @@
 import React from "react";
 import Dropdown from "./Dropdown";
+import ResultSection from "./ResultSection";
 
 class HomePage extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = { clicked: false };
+		this.state = { clicked: false, results: null };
 	}
+
+	updateResults = (results) => {
+		this.setState({ results: results });
+	};
 
 	render() {
 		return (
 			<div className="homepage">
 				<div className="query-section">
-					<Dropdown />
+					<Dropdown updateResults={this.updateResults} />
 				</div>
-				<div className="result-section">{/* <Dropdown /> */}</div>
+				<ResultSection results={this.state.results} />
 			</div>
 		);
 	}

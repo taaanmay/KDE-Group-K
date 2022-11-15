@@ -4,8 +4,9 @@
 	background-size: cover;
 	width: 100vw;
 	height: 100vh;
-	/* display: flex;
-	justify-content: center; */
+	display: flex;
+	flex-direction: row;
+	/*justify-content: center; */
 	/* align-items: center; */
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color: #b9b4c1;
@@ -14,10 +15,11 @@
 .query-section {
 	width: 40vw;
 	padding: 1%;
+	border-right: 1px solid;
 }
 .result-section {
-	width: auto;
-	background-color: #fff;
+	width: 100%;
+	/* background-color: #fff; */
 }
 
 button {

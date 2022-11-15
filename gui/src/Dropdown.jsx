@@ -12,7 +12,7 @@ class Dropdown extends React.Component {
 					"%? ",
 				],
 				[{ default: "4.5", type: "text" }],
-				"SELECT * WHERE { ?s ?p ?o } LIMIT 100"
+				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
 			),
 			new QuestionObject(
 				[
@@ -20,7 +20,7 @@ class Dropdown extends React.Component {
 					"%? ",
 				],
 				[{ default: "4.5", type: "text" }],
-				"SELECT * WHERE { ?s ?p ?o } LIMIT 100"
+				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
 			),
 			new QuestionObject(
 				[
@@ -28,7 +28,7 @@ class Dropdown extends React.Component {
 					" how many new loans were approved? ",
 				],
 				[{ default: "4.5", type: "text" }],
-				"SELECT * WHERE { ?s ?p ?o } LIMIT 100"
+				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
 			),
 		];
 		this.state = { selected: this.questions[0], down: false };
@@ -39,7 +39,12 @@ class Dropdown extends React.Component {
 	};
 
 	renderQuestion = (question) => {
-		return <Question question={question} />;
+		return (
+			<Question
+				question={question}
+				updateResults={this.props.updateResults}
+			/>
+		);
 	};
 
 	render() {

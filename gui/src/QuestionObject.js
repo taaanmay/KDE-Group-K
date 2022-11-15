@@ -5,16 +5,24 @@ class QuestionObject {
 		this.query = query;
 	}
 
-	toString = () => {
+	toString() {
+		return this.createString(this.strings);
+	}
+
+	toQuery() {
+		return this.createString(this.query);
+	}
+
+	createString = (sections) => {
 		let i = 0;
 		let string = "";
 		for (i = 0; i < this.vars.length; i++) {
-			string += this.strings[i];
+			string += sections[i];
 			string += this.vars[i].default;
 		}
 
-		if (i < this.strings.length) {
-			string += this.strings[i];
+		if (i < sections.length) {
+			string += sections[i];
 		}
 
 		return string;

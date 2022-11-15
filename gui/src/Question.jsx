@@ -2,19 +2,15 @@ import React from "react";
 import QueryInput from "./QueryInput";
 
 class Question extends React.Component {
-	// constructor(props) {
-	// 	super(props);
-	// 	// this.state = {};
-	// }
-
 	onCLick = async () => {
 		fetch(
 			"https://dbpedia.org/sparql?query=" +
-				encodeURI(this.props.question.query) +
+				encodeURI(this.props.question.toQuery()) +
 				"&format=application%2Fsparql-results%2Bjson"
 		)
 			.then((response) => response.json())
 			.then((data) => {
+				this.props.updateResults(data.results.bindings);
 				console.log(data);
 			});
 	};
@@ -24,9 +20,11 @@ class Question extends React.Component {
 
 		let i = 0;
 		for (i = 0; i < this.props.question.vars.length; i++) {
-			sections.push(<span>{this.props.question.strings[i]}</span>);
 			sections.push(
-				<span>
+				<span key={i + "s"}>{this.props.question.strings[i]}</span>
+			);
+			sections.push(
+				<span key={i + "in"}>
 					<QueryInput
 						type={this.props.question.vars[i].type}
 						value={this.props.question.vars[i].default}
@@ -36,15 +34,15 @@ class Question extends React.Component {
 		}
 
 		if (i < this.props.question.strings.length) {
-			sections.push(<span>{this.props.question.strings[i]}</span>);
+			sections.push(
+				<span key={i + "s"}>{this.props.question.strings[i]}</span>
+			);
 		}
 
 		return sections;
 	};
 
 	render() {
-		// let i = 0;
-		// console.log(this.state.question.to);
 		return (
 			<div className="question">
 				{this.renderInputs()}

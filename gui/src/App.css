@@ -1,38 +1,78 @@
-.App {
-  text-align: center;
+.homepage {
+	text-align: center;
+	background-image: url(./Resources/background.svg);
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: row;
+	/*justify-content: center; */
+	/* align-items: center; */
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #b9b4c1;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.query-section {
+	width: 40vw;
+	padding: 1%;
+	border-right: 1px solid;
+}
+.result-section {
+	width: 100%;
+	/* background-color: #fff; */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+button {
+	/* font-size: x-large; */
+	background-color: #251f31;
+	stroke: none;
+	border: none;
+	font-family: inherit;
+	color: inherit;
+	padding: 5px 10px;
+	cursor: pointer;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.question .question-section {
+	display: inline-block;
 }
 
-.App-link {
-  color: #61dafb;
+.dropdown {
+	width: 40vw;
+	display: flex;
+	flex-direction: row;
+	/* align-items; */
+	/* justify-content: flex-start; */
+	/* align-items: left; */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.dropdown-column {
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	margin: 5px;
+}
+
+.dropdown-option {
+	padding: 5px;
+	cursor: pointer;
+}
+.dropdown-option:hover {
+	background-color: #251f3144;
+}
+
+input {
+	width: fit-content;
+	min-width: 20px;
+	max-width: 20px;
+}
+
+form {
+	display: inline;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }

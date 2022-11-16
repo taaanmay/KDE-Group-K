@@ -63,9 +63,11 @@ button {
 .dropdown-option {
 	padding: 5px;
 	cursor: pointer;
+	background-color: #3d364a;
+	/* border-top: 1px solid #b9b4c177; */
 }
 .dropdown-option:hover {
-	background-color: #251f3144;
+	background-color: #2e273d;
 }
 
 input {

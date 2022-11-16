@@ -52,7 +52,7 @@ class Dropdown extends React.Component {
 			<div className="dropdown">
 				<div className="dropdown-column">
 					<button type="submit" onClick={this.drop}>
-						Drop
+						{this.state.down ? <>&#9650;</> : <>&#9660;</>}
 					</button>
 				</div>
 				<div className="dropdown-column">

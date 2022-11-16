@@ -1,11 +1,11 @@
 import React from "react";
-import Dropdown from "./QueryClasses/Dropdown";
+import QuerySection from "./QueryClasses/QuerySection";
 import ResultSection from "./ResultClasses/ResultSection";
 
 class HomePage extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = { clicked: false, results: null };
+		this.state = { results: null };
 	}
 
 	updateResults = (results) => {
@@ -15,9 +15,7 @@ class HomePage extends React.Component {
 	render() {
 		return (
 			<div className="homepage">
-				<div className="query-section">
-					<Dropdown updateResults={this.updateResults} />
-				</div>
+				<QuerySection updateResults={this.updateResults} />
 				<ResultSection results={this.state.results} />
 			</div>
 		);

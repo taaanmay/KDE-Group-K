@@ -1,10 +1,9 @@
 import React from "react";
 
 class ResultSection extends React.Component {
-	constructor(props) {
-		super(props);
-		this.state = { clicked: false };
-	}
+	// constructor(props) {
+	// 	super(props);
+	// }
 
 	renderResults = () => {
 		let resultsComponents = [];
@@ -27,7 +26,12 @@ class ResultSection extends React.Component {
 	};
 
 	render() {
-		return <div className="result-section">{this.renderResults()}</div>;
+		return (
+			<div className="result-section">
+				<h2>Results</h2>
+				<div>{this.renderResults()}</div>
+			</div>
+		);
 	}
 }
 

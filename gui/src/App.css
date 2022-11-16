@@ -1,5 +1,5 @@
 .homepage {
-	text-align: center;
+	text-align: left;
 	background-image: url(./Resources/background.svg);
 	background-size: cover;
 	width: 100vw;
@@ -13,15 +13,16 @@
 }
 
 .query-section {
-	width: 35vw;
 	padding: 1%;
+	width: 35vw;
 	border-right: 1px solid;
 }
-.result-section .result {
-	padding: 1%;
+.result {
 	text-align: left;
+	padding-bottom: 1%;
 }
 .result-section {
+	padding: 1%;
 	max-height: 100vh;
 	overflow: scroll;
 	width: 65vw;

@@ -11,7 +11,7 @@
                 "51,355" ;
         <http://example.com/ns#Waterford>
                 "50,506" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1989" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2008>
@@ -27,7 +27,7 @@
                 "282,677" ;
         <http://example.com/ns#Waterford>
                 "288,478" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2008" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1970%2F71>
@@ -43,7 +43,7 @@
                 "6,427" ;
         <http://example.com/ns#Waterford>
                 "6,105" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1970/71" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1983>
@@ -59,7 +59,7 @@
                 "43,501" ;
         <http://example.com/ns#Waterford>
                 "42,132" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1983" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2002>
@@ -75,7 +75,7 @@
                 "179,936" ;
         <http://example.com/ns#Waterford>
                 "167,272" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2002" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1996>
@@ -91,7 +91,7 @@
                 "82,091" ;
         <http://example.com/ns#Waterford>
                 "79,784" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1996" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2015>
@@ -107,7 +107,7 @@
                 "Other Areas" ;
         <http://example.com/ns#Waterford>
                 "213,506" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2015" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1990>
@@ -123,7 +123,7 @@
                 "55,729" ;
         <http://example.com/ns#Waterford>
                 "53,904" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1990" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1975>
@@ -139,7 +139,7 @@
                 "13,833" ;
         <http://example.com/ns#Waterford>
                 "12,636" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1975" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1988>
@@ -155,7 +155,7 @@
                 "47,380" ;
         <http://example.com/ns#Waterford>
                 "47,531" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1988" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2007>
@@ -171,7 +171,7 @@
                 "296,605" ;
         <http://example.com/ns#Waterford>
                 "292,057" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2007" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1982>
@@ -187,7 +187,7 @@
                 "42,889" ;
         <http://example.com/ns#Waterford>
                 "41,741" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1982" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2001>
@@ -203,7 +203,7 @@
                 "166,834" ;
         <http://example.com/ns#Waterford>
                 "155,488" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2001" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1995>
@@ -219,7 +219,7 @@
                 "71,829" ;
         <http://example.com/ns#Waterford>
                 "69,950" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1995" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2014>
@@ -235,7 +235,7 @@
                 "214,404" ;
         <http://example.com/ns#Waterford>
                 "177,122" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2014" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1974>
@@ -251,7 +251,7 @@
                 "10,851" ;
         <http://example.com/ns#Waterford>
                 "9,571" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1974" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1987>
@@ -267,7 +267,7 @@
                 "45,740" ;
         <http://example.com/ns#Waterford>
                 "46,966" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1987" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2006>
@@ -283,7 +283,7 @@
                 "276,570" ;
         <http://example.com/ns#Waterford>
                 "271,521" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2006" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1981>
@@ -299,7 +299,7 @@
                 "37,857" ;
         <http://example.com/ns#Waterford>
                 "34,638" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1981" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2000>
@@ -315,7 +315,7 @@
                 "154,050" ;
         <http://example.com/ns#Waterford>
                 "145,713" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2000" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1994>
@@ -331,7 +331,7 @@
                 "66,829" ;
         <http://example.com/ns#Waterford>
                 "69,185" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1994" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2013>
@@ -347,7 +347,7 @@
                 "207,573" ;
         <http://example.com/ns#Waterford>
                 "154,051" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2013" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1979>
@@ -363,7 +363,7 @@
                 "27,137" ;
         <http://example.com/ns#Waterford>
                 "27,164" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1979" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1969%2F70>
@@ -379,7 +379,7 @@
                 "n/a" ;
         <http://example.com/ns#Waterford>
                 "n/a" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1969/70" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1986>
@@ -395,7 +395,7 @@
                 "46,486" ;
         <http://example.com/ns#Waterford>
                 "47,928" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1986" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2005>
@@ -411,7 +411,7 @@
                 "254,006" ;
         <http://example.com/ns#Waterford>
                 "246,914" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2005" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1999>
@@ -427,7 +427,7 @@
                 "136,970" ;
         <http://example.com/ns#Waterford>
                 "132,050" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1999" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1980>
@@ -443,7 +443,7 @@
                 "32,663" ;
         <http://example.com/ns#Waterford>
                 "32,136" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1980" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1993>
@@ -459,7 +459,7 @@
                 "65,025" ;
         <http://example.com/ns#Waterford>
                 "61,341" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1993" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2012>
@@ -475,7 +475,7 @@
                 "207,957" ;
         <http://example.com/ns#Waterford>
                 "179,716" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2012" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1978>
@@ -491,7 +491,7 @@
                 "22,839" ;
         <http://example.com/ns#Waterford>
                 "21,295" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1978" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1985>
@@ -507,7 +507,7 @@
                 "45,058" ;
         <http://example.com/ns#Waterford>
                 "43,741" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1985" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2004>
@@ -523,7 +523,7 @@
                 "228,057" ;
         <http://example.com/ns#Waterford>
                 "220,286" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2004" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1998>
@@ -539,7 +539,7 @@
                 "116,589" ;
         <http://example.com/ns#Waterford>
                 "107,954" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1998" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1992>
@@ -555,7 +555,7 @@
                 "62,433" ;
         <http://example.com/ns#Waterford>
                 "52,656" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1992" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2011>
@@ -571,7 +571,7 @@
                 "216,400" ;
         <http://example.com/ns#Waterford>
                 "205,598" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2011" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1977>
@@ -587,7 +587,7 @@
                 "18,025" ;
         <http://example.com/ns#Waterford>
                 "17,296" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1977" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1971%2F72>
@@ -603,7 +603,7 @@
                 "7,198" ;
         <http://example.com/ns#Waterford>
                 "6,227" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1971/72" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2009>
@@ -619,7 +619,7 @@
                 "231,739" ;
         <http://example.com/ns#Waterford>
                 "227,444" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2009" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1972%2F73>
@@ -635,7 +635,7 @@
                 "8,054" ;
         <http://example.com/ns#Waterford>
                 "6,928" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1972/73" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1984>
@@ -651,7 +651,7 @@
                 "43,654" ;
         <http://example.com/ns#Waterford>
                 "44,115" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1984" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2003>
@@ -667,7 +667,7 @@
                 "203,125" ;
         <http://example.com/ns#Waterford>
                 "195,173" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2003" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1997>
@@ -683,7 +683,7 @@
                 "94,664" ;
         <http://example.com/ns#Waterford>
                 "91,608" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1997" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1991>
@@ -699,7 +699,7 @@
                 "58,645" ;
         <http://example.com/ns#Waterford>
                 "53,366" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1991" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2010>
@@ -715,7 +715,7 @@
                 "218,097" ;
         <http://example.com/ns#Waterford>
                 "224,021" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "2010" .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1976>
@@ -731,5 +731,5 @@
                 "15,361" ;
         <http://example.com/ns#Waterford>
                 "13,900" ;
-        <http://xmlns.com/foaf/0.1/year>
+        <http://www.w3.org/2001/XMLSchema#gYear>
                 "1976" .

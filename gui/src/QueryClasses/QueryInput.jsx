@@ -8,7 +8,8 @@ class QueryInput extends React.Component {
 	}
 
 	onChange = (event) => {
-		this.setState({ value: event.target.value });
+		// this.setState({ value: event.target.value });
+		this.props.updateVar(event.target.value);
 	};
 
 	render() {
@@ -18,7 +19,7 @@ class QueryInput extends React.Component {
 				onChange={this.onChange}
 				type={this.type}
 				name="name"
-				value={this.state.value}
+				value={this.props.value}
 			/>
 			// </form>
 		);

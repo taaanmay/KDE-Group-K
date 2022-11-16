@@ -1,6 +1,6 @@
 import React from "react";
-import Dropdown from "./Dropdown";
-import ResultSection from "./ResultSection";
+import Dropdown from "./QueryClasses/Dropdown";
+import ResultSection from "./ResultClasses/ResultSection";
 
 class HomePage extends React.Component {
 	constructor(props) {

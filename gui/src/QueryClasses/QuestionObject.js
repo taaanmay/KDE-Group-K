@@ -10,15 +10,21 @@ class QuestionObject {
 	}
 
 	toQuery() {
-		return this.createString(this.query);
+		let query = this.createString(this.query);
+		console.log(query);
+		return query;
 	}
+
+	// setVars = (vars) => {
+	// 	this.vars = vars;
+	// };
 
 	createString = (sections) => {
 		let i = 0;
 		let string = "";
 		for (i = 0; i < this.vars.length; i++) {
 			string += sections[i];
-			string += this.vars[i].default;
+			string += this.vars[i].value;
 		}
 
 		if (i < sections.length) {

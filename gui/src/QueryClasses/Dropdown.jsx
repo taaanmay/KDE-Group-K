@@ -11,7 +11,7 @@ class Dropdown extends React.Component {
 					"How many new homes were approved loans when the annual interest rate was over ",
 					"%? ",
 				],
-				[{ default: "4.5", type: "text" }],
+				[{ value: "4.5", type: "text" }],
 				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
 			),
 			new QuestionObject(
@@ -19,7 +19,7 @@ class Dropdown extends React.Component {
 					"What was the average price for new properties in Dublin when the interest rate was less than ",
 					"%? ",
 				],
-				[{ default: "4.5", type: "text" }],
+				[{ value: "4.5", type: "text" }],
 				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
 			),
 			new QuestionObject(
@@ -27,7 +27,7 @@ class Dropdown extends React.Component {
 					"When the average new property price in Dublin was ",
 					" how many new loans were approved? ",
 				],
-				[{ default: "4.5", type: "text" }],
+				[{ value: "4.5", type: "text" }],
 				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
 			),
 		];

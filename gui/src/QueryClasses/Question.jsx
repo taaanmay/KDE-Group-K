@@ -20,6 +20,12 @@ class Question extends React.Component {
 
 		let i = 0;
 		for (i = 0; i < this.props.question.vars.length; i++) {
+			let j = i;
+			let updateVar = (val) => {
+				console.log(val);
+				this.props.question.vars[j].value = val;
+				this.forceUpdate();
+			};
 			sections.push(
 				<span key={i + "s"}>{this.props.question.strings[i]}</span>
 			);
@@ -27,7 +33,8 @@ class Question extends React.Component {
 				<span key={i + "in"}>
 					<QueryInput
 						type={this.props.question.vars[i].type}
-						value={this.props.question.vars[i].default}
+						value={this.props.question.vars[i].value}
+						updateVar={updateVar}
 					/>
 				</span>
 			);

@@ -10,9 +10,7 @@ class QuestionObject {
 	}
 
 	toQuery() {
-		let query = this.createString(this.query);
-		console.log(query);
-		return query;
+		return this.createString(this.query);
 	}
 
 	// setVars = (vars) => {

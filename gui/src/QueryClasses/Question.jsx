@@ -4,14 +4,18 @@ import QueryInput from "./QueryInput";
 class Question extends React.Component {
 	onCLick = async () => {
 		fetch(
-			"https://dbpedia.org/sparql?query=" +
-				encodeURI(this.props.question.toQuery()) +
-				"&format=application%2Fsparql-results%2Bjson"
+			"http://localhost:7200/repositories/KDE?query=" +
+				encodeURI(this.props.question.toQuery()),
+			{
+				headers: {
+					Accept: "application/json",
+					"Content-Type": "application/json",
+				},
+			}
 		)
 			.then((response) => response.json())
 			.then((data) => {
 				this.props.updateResults(data.results.bindings);
-				console.log(data);
 			});
 	};
 

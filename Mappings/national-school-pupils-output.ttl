@@ -1,4 +1,0 @@
-<http://foo.example/Addresses>
-        a       <http://dbpedia.org/ontology/Place> ;
-        <http://xmlns.com/foaf/0.1/name>
-                "Donegal" , "Kilkenny" , "Carlow" , "Roscommon" , "Offaly" , "Monaghan" , "Galway County" , "Wicklow" , "Fingal" , "Sligo" , "Mayo" , "Galway City" , "Waterford County" , "Waterford" , "Limerick City" , "Cork City" , "Clare" , "Longford" , "Laois" , "All Counties" , "Limerick" , "Kerry" , "Westmeath" , "Cavan" , "Tipperary" , "Meath" , "Limerick County" , "Cork County" , "Dún Laoghaire-Rathdown" , "Louth" , "Wexford" , "Dublin City" , "Waterford City" , "South Dublin" , "Leitrim" , "Kildare" .

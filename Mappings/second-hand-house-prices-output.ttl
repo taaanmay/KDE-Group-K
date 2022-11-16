@@ -1,0 +1,220 @@
+<http://groupj.knowledgegraph/SecondHandHousePrices/2000>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "252,990" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "132,563" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "191,892" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "118,916" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2000" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2005>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "458,633" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "212,437" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "331,732" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "170,307" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2005" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2014>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "369,082" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "125,028" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "270,146" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "99,601" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2014" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2003>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "367,376" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "188,929" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "266,375" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "147,131" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2003" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2008>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "479,993" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "262,500" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "356,554" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "213,153" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2008" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2012>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "338,487" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "135,069" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "256,120" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "114,168" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2012" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2001>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "277,722" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "160,492" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "209,103" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "135,683" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2001" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2006>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "544,319" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "249,222" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "374,247" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "170,084" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2006" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2010>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "361,918" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "110,000" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "279,677" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "165,071" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2010" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2015>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "350,390" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "160,864" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "272,954" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "115,251" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2015" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2004>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "405,891" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "198,098" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "296,688" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "158,174" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2004" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2009>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "364,781" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "235,133" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "280,360" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "200,190" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2009" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/1999>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "216,980" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "118,742" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "164,695" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "104,562" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "1999" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2013>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "374,890" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "183,367" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "264,463" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "120,256" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2013" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2002>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "307,757" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "170,472" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "229,720" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "140,609" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2002" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2007>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "533,383" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "253,159" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "384,459" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "194,395" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2007" .
+
+<http://groupj.knowledgegraph/SecondHandHousePrices/2011>
+        a       <http://dbpedia.org/ontology/year> ;
+        <http://example.com/ns#ApprovedByDublinBanks>
+                "346,177" ;
+        <http://example.com/ns#ApprovedByDublinLocalAuthorities>
+                "137,697" ;
+        <http://example.com/ns#ApprovedByNationalBanks>
+                "266,923" ;
+        <http://example.com/ns#ApprovedByNationalLocalAuthorities>
+                "125,169" ;
+        <http://www.w3.org/2001/XMLSchema#gYear>
+                "2011" .

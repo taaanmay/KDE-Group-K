@@ -1,9 +1,22 @@
 ### 1 - How many new homes were approved loans when the annual interest rate was over 4.5%?
 
-`PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?irYear ?totalLoansApproved WHERE { ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir . BIND (xsd:integer(STRAFTER(STRBEFORE(STR(?irObj), "M"), "\_")) as ?irYear) . FILTER ( ?ir > 4.5) . ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear FILTER (?laYear = ?irYear) }`
+---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT
+?irYear ?totalLoansApproved
+WHERE
+{
+    ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .
+    BIND (xsd:integer(STRAFTER(STRBEFORE(STR(?irObj), "M"), "_")) as ?irYear) .
+    FILTER ( ?ir > 4.5) .
+    ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .
+    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear
+    FILTER (?laYear = ?irYear)
+
+
+}
 ```
 
 ---

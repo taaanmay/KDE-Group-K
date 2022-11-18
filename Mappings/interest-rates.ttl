@@ -11,12 +11,12 @@
 		rr:tableName "MonthlyInterestRates" 
 	] ;
 	rr:subjectMap [
-		rr:template "http://example.com/InterestRates_{YEAR}" ;
+		rr:template "http://example.com/InterestRates_{MONTH}" ;
 		rdf:type owl:Class ;
 	] ;
 	
 	rr:predicateObjectMap [
-		rr:predicate rr:Consumer ;
+		rr:predicate rr:ConsumerInterestRate ;
 		rr:objectMap [ 
 			rr:column "AVERAGECONSUMERINTERESTRATE";
 			rr:datatype xsd:integer
@@ -24,28 +24,10 @@
 	] ;
 	
 	rr:predicateObjectMap [
-		rr:predicate rr:Variable ;
+		rr:predicate rr:VariableInterestRate ;
 		rr:objectMap [
 			rr:column "AVERAGEINTERESTRATE" ;
 			rr:datatype xsd:integer
 		]
 	] ;
-
-	rr:predicateObjectMap [
-		rr:predicate rr:ProgramAttendees ;
-		rr:objectMap [
-			rr:column "NUMBEROFPUPILS" ;
-			rr:datatype xsd:integer
-		]
-	] ;
-
-	rr:predicateObjectMap [
-		rr:predicate rr:ProgrammeYear ;
-		rr:objectMap [
-			rr:column "YEAR" ;
-			rr:datatype xsd:year
-		]
-	] ;
-	.
-
-	# Programme Name ?
+.

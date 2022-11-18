@@ -64,12 +64,24 @@ WHERE
 
 ---
 
-### 4 - For how many years between 1999 and 2015 were the property prices in dublin above x and there were more than y loans approved
+### 4 - For how many years between 1999 and 2015 were the property prices in dublin above 200000 and there were more than 100000 loans approved
 
 ---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT (COUNT (DISTINCT ?laYear) AS ?Years)
+WHERE
+{
+    ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "DUBLIN" .
+    ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp .
+    FILTER ( ?npp > 200000 ) .
+    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?nppYear .
+    ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .
+    FILTER ( ?totalLoansApproved > 100000 ) .
+    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear
+    FILTER (xsd:integer(?nppYear) = ?laYear)
+}
 ```
 
 ---

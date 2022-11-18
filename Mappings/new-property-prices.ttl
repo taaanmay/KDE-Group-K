@@ -15,34 +15,34 @@
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate xsd:gYear ;
-		rr:objectMap [ rr:column "YEAR" ]
+		rr:objectMap [ rr:column "YEAR"; rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:National ;
-		rr:objectMap [ rr:column "NATIONAL" ]
+		rr:objectMap [ rr:column "NATIONAL"; rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:Dublin ;
-		rr:objectMap [ rr:column "DUBLIN" ]
+		rr:objectMap [ rr:column "DUBLIN"; rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:Cork ;
-		rr:objectMap [ rr:column "CORK" ]
+		rr:objectMap [ rr:column "CORK"; rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:Galway ;
-		rr:objectMap [ rr:column "GALWAY" ]
+		rr:objectMap [ rr:column "GALWAY"; rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:Limerick ;
-		rr:objectMap [ rr:column "LIMERICK" ]
+		rr:objectMap [ rr:column "LIMERICK"; rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:Waterford ;
-		rr:objectMap [ rr:column "WATERFORD" ]
+		rr:objectMap [ rr:column "WATERFORD"; rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:OtherAreas ;
-		rr:objectMap [ rr:column "OTHER AREAS" ]
+		rr:objectMap [ rr:column "OTHER AREAS" ; rr:datatype xsd:integer]
 	] ;
 	.

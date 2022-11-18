@@ -11,14 +11,14 @@
 		rr:tableName "NationalSchoolPupils" 
 	] ;
 	rr:subjectMap [
-		rr:template "http://example.com/School/SchoolProgramme" ;
+		rr:template "http://groupj.knowledgegraph/{REGION}/{YEAR}";
 		rdf:type owl:Class ;
 	] ;
 	
 	rr:predicateObjectMap [
 		rr:predicate rr:Region ;
 		rr:objectMap [ 
-			rr:column "COUNTY";
+			rr:column "REGION";
 			rr:language "en" ;
 		]
 	] ;

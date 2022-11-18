@@ -1,7 +1,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix ex: <http://example.com/ns#ex:> .
+@prefix ex: <http://example.com/ns#> .
 
 <https://www.w3.org/TR/2004/REC-owl-guide-20040210/>
   a owl:Ontology ;
@@ -104,7 +104,12 @@
   rdfs:domain   ex:AvgYearlyInterestRate ;
   rdfs:range xsd:gYear .
 
-  ex:InterestRateValue
+  ex:VariableInterestRateValue
+  a owl:FunctionalProperty ;
+  rdfs:domain   ex:AvgYearlyInterestRate ;
+  rdfs:range xsd:double .
+  
+  ex:ConsumerInterestRateValue
   a owl:FunctionalProperty ;
   rdfs:domain   ex:AvgYearlyInterestRate ;
   rdfs:range xsd:double .

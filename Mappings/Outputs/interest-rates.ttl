@@ -1,0 +1,119 @@
+<http://example.com/InterestRates_2008M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "7.6375"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "5.13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2011M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "5.63666666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2014M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "5.62166666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2017M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "8.1"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2005M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "6.13916666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.37"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2020M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "7.30333333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.0725"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2010M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "5.345"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "2.87"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2022M08>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "6.2975"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.3725"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2013M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "5.08833333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2016M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "6.96916666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2019M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "7.82083333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.0975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2004M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "6.58083333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2007M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "7.31416666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "4.86"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2021M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "6.17666666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.15666666666667"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2009M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "5.695"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "2.96"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2012M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "5.19416666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2015M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "6.48083333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.31"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2018M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "8.04416666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2003M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "7.06"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.76"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+<http://example.com/InterestRates_2006M12>
+        <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
+                "6.6025"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+        <http://www.w3.org/ns/r2rml#VariableInterestRate>
+                "3.97"^^<http://www.w3.org/2001/XMLSchema#integer> .

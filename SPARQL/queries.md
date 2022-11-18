@@ -5,15 +5,15 @@
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 SELECT DISTINCT
-?irYear ?totalLoansApproved
+?year ?totalLoansApproved
 WHERE
 {
     ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .
-    BIND (xsd:integer(STRAFTER(STRBEFORE(STR(?irObj), "M"), "_")) as ?irYear) .
+    ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr .
+    BIND (xsd:integer(STRBEFORE(STR(?irYearStr), "M")) as ?year) .
     FILTER ( ?ir > 4.5) .
     ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .
-    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear
-    FILTER (?laYear = ?irYear)
+    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year
 }
 ```
 
@@ -26,17 +26,19 @@ WHERE
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 SELECT DISTINCT
-?irYear ?newPropertyPrice
+?year ?newPropertyPrice
+#?ir ?irObj ?irYear ?newPropertyPrice ?nppYear
 WHERE
 {
     ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .
-    BIND (STRAFTER(STRBEFORE(STR(?irObj), "M"), "_") as ?irYear) .
+    ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr .
+    BIND (xsd:integer(STRBEFORE(STR(?irYearStr), "M")) as ?year) .
     FILTER ( ?ir < 3.0) .
     ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "DUBLIN" .
     ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newPropertyPrice .
-    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?nppYear
-    FILTER (?nppYear = ?irYear)
+    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year
 }
+
 ```
 
 ---
@@ -48,17 +50,16 @@ WHERE
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 SELECT DISTINCT
-?totalLoansApproved ?laYear
+?totalLoansApproved ?year
 WHERE
 {
     ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "DUBLIN" .
     ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp .
     FILTER ( ?npp < 250000 ) .
     FILTER ( ?npp > 200000 ) .
-    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?nppYear .
+    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year .
     ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .
-    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear
-    FILTER (xsd:integer(?nppYear) = ?laYear)
+    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year
 }
 ```
 
@@ -70,23 +71,22 @@ WHERE
 
 ```
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-SELECT (COUNT (DISTINCT ?laYear) AS ?Years)
+SELECT (COUNT (DISTINCT ?year) AS ?Years)
 WHERE
 {
     ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "DUBLIN" .
     ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp .
     FILTER ( ?npp > 200000 ) .
-    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?nppYear .
+    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year .
     ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .
     FILTER ( ?totalLoansApproved > 100000 ) .
-    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear
-    FILTER (xsd:integer(?nppYear) = ?laYear)
+    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year
 }
 ```
 
 ---
 
-### 5 - How many national school pupils in Dublin (or any county) ?
+### 5 - In the year with the most national school pupils in Dublin, what was the consumer interest rate?
 
 ---
 

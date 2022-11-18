@@ -30,4 +30,12 @@
 			rr:datatype xsd:integer
 		]
 	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate rr:Year ;
+		rr:objectMap [
+			rr:column "MONTH" ;
+			rr:datatype xsd:year
+		]
+	] ;
 .

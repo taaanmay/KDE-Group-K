@@ -1,6 +1,6 @@
 ### 1 - How many new homes were approved loans when the annual interest rate was over 4.5%?
 
----
+`PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?irYear ?totalLoansApproved WHERE { ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir . BIND (xsd:integer(STRAFTER(STRBEFORE(STR(?irObj), "M"), "\_")) as ?irYear) . FILTER ( ?ir > 4.5) . ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear FILTER (?laYear = ?irYear) }`
 
 ```
  QUERY HERE
@@ -28,7 +28,7 @@
 
 ---
 
-### 4 - For how many years between 1999 and 2015 were the property prices in dublin above x and there were more than y loans approved  
+### 4 - For how many years between 1999 and 2015 were the property prices in dublin above x and there were more than y loans approved
 
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 5 - How many national school pupils in Dublin (or any county) ? 
+### 5 - How many national school pupils in Dublin (or any county) ?
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 6 - Where were property prices highest when the interest rates were highest? 
+### 6 - Where were property prices highest when the interest rates were highest?
 
 ---
 
@@ -78,18 +78,7 @@
 
 ---
 
-### 9 - What were the average property prices for second hand homes in Dublin when the total value of loans approved for second hand homes for the year was over €10,000,000,000 (10 billion)? 
-
-
----
-
-```
- QUERY HERE
-```
-
----
-
-### 10 - What were the average prices for new properties in Galway in years when interest rates were higher than all-time average interest rates (avg of interest rates 2003-2022). 
+### 9 - What were the average property prices for second hand homes in Dublin when the total value of loans approved for second hand homes for the year was over €10,000,000,000 (10 billion)?
 
 ---
 
@@ -99,7 +88,12 @@
 
 ---
 
+### 10 - What were the average prices for new properties in Galway in years when interest rates were higher than all-time average interest rates (avg of interest rates 2003-2022).
 
+---
 
+```
+ QUERY HERE
+```
 
-
+---

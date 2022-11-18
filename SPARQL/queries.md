@@ -91,7 +91,31 @@ WHERE
 ---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT
+?ir
+WHERE
+{
+    {
+        SELECT (MAX(?attendees) AS ?max) WHERE {
+            ?schObj <http://www.w3.org/ns/r2rml#Region> "Carlow"@en .
+            ?schObj <http://www.w3.org/ns/r2rml#ProgrammeName> ?programme .
+            FILTER ( ?programme = "All mainstream national school programmes" ) .
+            ?schObj <http://www.w3.org/ns/r2rml#ProgramAttendees> ?attendees .
+        }
+    }
+    ?schObj2 <http://www.w3.org/ns/r2rml#ProgramAttendees> ?max .
+    ?schObj2 <http://www.w3.org/ns/r2rml#Region> ?region .
+    ?schObj2 <http://www.w3.org/ns/r2rml#ProgrammeName> ?programme .
+    FILTER ( ?programme = "All mainstream national school programmes" ) .
+    FILTER ( ?region = "Carlow"@en ) .
+    ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr .
+    BIND (xsd:integer(STRBEFORE(STR(?irYearStr), "M")) as ?iryear) .
+    ?schObj2 <http://www.w3.org/ns/r2rml#ProgrammeYear> ?year .
+    filter (?iryear = ?year)
+    ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr .
+    ?irObj <http://www.w3.org/ns/r2rml#ConsumerInterestRate> ?ir .
+}
 ```
 
 ---
@@ -135,19 +159,19 @@ WHERE
 ---
 
 ```
-SELECT ?oldHousesSubject ?approvedByNationalBanks where { 
-	
+SELECT ?oldHousesSubject ?approvedByNationalBanks where {
+
     ?years <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "NATIONAL" .
     ?years <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newHousePrices .
     FILTER ( ?newHousePrices >= 400000) .
     ?years <http://www.w3.org/2001/XMLSchema#gYear> ?yearInt.
     ?oldHousesSubject <http://www.w3.org/2001/XMLSchema#gYear> ?yearInt.
     ?oldHousesSubject <http://example.com/ns#ApprovedByNationalBanks> ?approvedByNationalBanks.
-    
-    
-    
-    
-} limit 100 
+
+
+
+
+} limit 100
 
 ```
 

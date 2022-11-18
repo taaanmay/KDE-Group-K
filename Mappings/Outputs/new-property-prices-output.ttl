@@ -3,38 +3,38 @@
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1989 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "54,670"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                54670 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "68,393"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                68393 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "57,936"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                57936 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "54,732"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                54732 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "58,178"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                58178 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "51,355"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                51355 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "50,506"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                50506 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2008 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "314,276"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                314276 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "370,495"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                370495 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "292,777"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                292777 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "276,719"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                276719 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "305,269"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                305269 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "282,677"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                282677 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "288,478"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                288478 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1970>
         a       <http://dbpedia.org/ontology/year> ;
@@ -43,13 +43,13 @@
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
                 "n/a"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "7,051"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7051 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
                 "n/a"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
                 "n/a"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "6,692"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6692 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
                 "n/a"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
@@ -60,814 +60,814 @@
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1983 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "39,223"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                39223 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "48,169"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                48169 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "45,650"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                45650 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "41,430"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                41430 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "44,448"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                44448 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "43,501"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                43501 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "42,132"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                42132 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2002 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "184,369"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                184369 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "256,109"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                256109 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "187,607"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                187607 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "168,574"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                168574 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "198,087"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                198087 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "179,936"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                179936 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "167,272"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                167272 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1996 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "85,351"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                85351 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "97,058"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                97058 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "93,050"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                93050 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "83,281"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                83281 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "87,202"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                87202 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "82,091"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                82091 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "79,784"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                79784 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2015 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "255,010"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                255010 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "377,741"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                377741 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "241,058"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                241058 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "232,791"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                232791 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "281,432"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                281432 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
                 "Other Areas"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "213,506"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                213506 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1990 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "61,074"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                61074 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "80,749"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                80749 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "68,019"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                68019 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "62,258"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                62258 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "65,541"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                65541 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "55,729"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                55729 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "53,904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                53904 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1975 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "12,921"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                12921 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "13,137"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                13137 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "14,420"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                14420 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "13,594"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                13594 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "13,254"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                13254 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "13,833"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                13833 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "12,636"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                12636 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1988 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "49,605"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                49605 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "57,994"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                57994 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "52,238"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                52238 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "53,296"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                53296 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "52,450"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                52450 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "47,380"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                47380 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "47,531"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                47531 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2007 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "325,453"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                325453 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "416,225"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                416225 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "300,750"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                300750 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "288,202"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                288202 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "322,634"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                322634 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "296,605"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                296605 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "292,057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                292057 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1982 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "38,213"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                38213 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "48,886"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                48886 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "45,460"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                45460 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "40,195"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                40195 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "44,060"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                44060 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "42,889"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                42889 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "41,741"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                41741 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2001 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "174,550"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                174550 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "243,095"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                243095 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "171,161"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                171161 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "152,205"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                152205 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "182,863"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                182863 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "166,834"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                166834 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "155,488"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                155488 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1995 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "76,608"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                76608 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "86,671"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                86671 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "87,783"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                87783 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "73,348"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                73348 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "77,994"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                77994 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "71,829"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                71829 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "69,950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                69950 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2014 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "242,099"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                242099 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "333,720"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                333720 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "218,016"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                218016 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "208,442"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                208442 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "246,378"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                246378 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "214,404"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                214404 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "177,122"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                177122 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1974 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "9,809"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                9809 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "10,943"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                10943 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "13,356"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                13356 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "10,515"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                10515 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "10,836"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                10836 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "10,851"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                10851 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "9,571"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                9571 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1987 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "45,846"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                45846 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "50,864"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                50864 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "48,162"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                48162 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "46,946"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                46946 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "48,151"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                48151 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "45,740"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                45740 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "46,966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                46966 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2006 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "305,015"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                305015 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "405,957"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                405957 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "286,176"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                286176 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "275,411"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                275411 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "305,637"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                305637 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "276,570"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                276570 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "271,521"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                271521 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1981 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "35,464"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                35464 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "44,456"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                44456 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "39,729"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                39729 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "41,520"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                41520 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "40,167"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                40167 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "37,857"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                37857 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "34,638"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                34638 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2000 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "166,557"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                166557 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "221,724"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                221724 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "163,824"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                163824 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "145,834"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                145834 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "169,191"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                169191 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "154,050"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                154050 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "145,713"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                145713 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1994 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "71,378"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                71378 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "81,993"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                81993 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "77,375"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                77375 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "68,238"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                68238 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "72,732"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                72732 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "66,829"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                66829 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "69,185"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                69185 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2013 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "240,063"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                240063 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "300,466"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                300466 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "218,308"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                218308 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "206,456"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                206456 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "228,216"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                228216 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "207,573"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                207573 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "154,051"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                154051 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1979 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "29,064"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                29064 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "32,005"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                32005 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "30,466"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                30466 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "30,538"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                30538 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "29,387"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                29387 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "27,137"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                27137 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "27,164"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                27164 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1973 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "7,678"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7678 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "9,206"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                9206 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "9,405"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                9405 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "7,450"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7450 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "9,009"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                9009 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "8,054"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                8054 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "6,928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                6928 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1986 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "43,844"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                43844 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "50,891"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                50891 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "49,804"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                49804 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "47,222"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                47222 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "48,256"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                48256 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "46,486"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                46486 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "47,928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                47928 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2005 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "265,644"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                265644 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "350,891"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                350891 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "274,905"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                274905 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "226,393"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                226393 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "276,221"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                276221 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "254,006"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                254006 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "246,914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                246914 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1999 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "141,007"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                141007 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "193,526"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                193526 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "138,928"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                138928 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "121,880"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                121880 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "148,521"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                148521 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "136,970"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                136970 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "132,050"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                132050 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1980 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "34,617"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                34617 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "37,822"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                37822 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "33,839"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                33839 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "34,340"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                34340 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "34,967"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                34967 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "32,663"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                32663 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "32,136"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                32136 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1993 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "68,172"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                68172 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "75,539"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                75539 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "74,761"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                74761 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "66,825"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                66825 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "69,883"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                69883 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "65,025"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                65025 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "61,341"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                61341 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2012 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "235,473"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                235473 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "265,633"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                265633 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "219,233"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                219233 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "212,902"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                212902 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "220,415"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                220415 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "207,957"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                207957 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "179,716"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                179716 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1978 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "22,460"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                22460 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "25,745"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                25745 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "26,244"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                26244 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "23,077"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                23077 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "24,082"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                24082 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "22,839"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                22839 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "21,295"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                21295 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1972 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "7,676"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7676 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "8,528"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                8528 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "8,867"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                8867 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "6,733"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6733 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "8,249"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                8249 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "7,198"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7198 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "6,227"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                6227 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1985 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "42,738"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                42738 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "49,166"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                49166 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "49,004"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                49004 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "44,511"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                44511 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "46,542"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                46542 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "45,058"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                45058 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "43,741"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                43741 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2004 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "237,858"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                237858 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "322,628"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                322628 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "242,218"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                242218 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "210,868"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                210868 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "249,191"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                249191 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "228,057"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                228057 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "220,286"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                220286 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1998 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "112,133"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                112133 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "160,699"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                160699 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "118,738"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                118738 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "104,248"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                104248 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "125,302"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                125302 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "116,589"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                116589 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "107,954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                107954 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1992 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "65,107"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                65107 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "79,200"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                79200 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "75,417"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                75417 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "60,184"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                60184 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "69,264"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                69264 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "62,433"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                62433 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "52,656"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                52656 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2011 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "241,502"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                241502 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "290,668"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                290668 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "229,558"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                229558 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "216,307"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                216307 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "230,303"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                230303 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "216,400"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                216400 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "205,598"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                205598 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1977 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "18,652"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                18652 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "19,055"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                19055 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "21,715"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                21715 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "19,992"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                19992 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "18,754"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                18754 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "18,025"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                18025 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "17,296"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                17296 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2009 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "252,011"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                252011 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "260,170"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                260170 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "236,113"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                236113 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "260,684"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                260684 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "242,033"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                242033 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "231,739"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                231739 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "227,444"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                227444 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1971 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "6,632"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6632 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "7,913"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7913 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "6,976"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6976 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "6,012"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6012 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "7,523"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7523 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "6,427"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6427 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "6,105"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                6105 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1984 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "41,105"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                41105 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "48,819"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                48819 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "45,774"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                45774 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "42,944"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                42944 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "45,419"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                45419 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "43,654"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                43654 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "44,115"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                44115 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2003 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "211,980"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                211980 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "291,646"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                291646 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "223,388"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                223388 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "197,672"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                197672 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "224,567"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                224567 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "203,125"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                203125 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "195,173"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                195173 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1997>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1997 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "96,046"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                96046 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "122,036"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                122036 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "109,905"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                109905 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "91,077"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                91077 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "102,222"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                102222 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "94,664"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                94664 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "91,608"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                91608 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1991 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "64,651"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                64651 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "78,715"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                78715 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "66,784"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                66784 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "64,598"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                64598 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "66,914"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                66914 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "58,645"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                58645 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "53,366"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                53366 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 2010 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "244,333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                244333 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "251,629"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                251629 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "219,459"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                219459 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "224,778"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                224778 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "228,268"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                228268 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "218,097"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                218097 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "224,021"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                224021 .
 
 <http://groupj.knowledgegraph/NewPropertyPrices/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
                 1976 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Cork>
-                "15,347"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                15347 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Dublin>
-                "15,342"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                15342 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Galway>
-                "17,842"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                17842 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Limerick>
-                "15,279"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                15279 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/National>
-                "15,564"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                15564 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/OtherAreas>
-                "15,361"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                15361 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Waterford>
-                "13,900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                13900 .

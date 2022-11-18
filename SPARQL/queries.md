@@ -41,12 +41,25 @@ WHERE
 
 ---
 
-### 3 - When the average new property price in Dublin was X, how many new loans were approved?
+### 3 - When the average new property price in Dublin was between 200,000 and 250,000, how many new loans were approved?
 
 ---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT
+?totalLoansApproved ?laYear
+WHERE
+{
+    ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "DUBLIN" .
+    ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp .
+    FILTER ( ?npp < 250000 ) .
+    FILTER ( ?npp > 200000 ) .
+    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?nppYear .
+    ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .
+    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear
+    FILTER (xsd:integer(?nppYear) = ?laYear)
+}
 ```
 
 ---

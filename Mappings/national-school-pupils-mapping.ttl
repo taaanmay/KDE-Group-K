@@ -46,6 +46,13 @@
 			rr:datatype xsd:year
 		]
 	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate rr:ProgrammeName ;
+		rr:objectMap [
+			rr:column "SCHOOLPROGRAMME" ;
+		]
+	] ;
 	.
 
 	# Programme Name ?

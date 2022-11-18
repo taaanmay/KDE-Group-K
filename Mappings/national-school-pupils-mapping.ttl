@@ -43,7 +43,7 @@
 		rr:predicate rr:ProgrammeYear ;
 		rr:objectMap [
 			rr:column "YEAR" ;
-			rr:datatype xsd:year
+			rr:datatype xsd:integer
 		]
 	] ;
 

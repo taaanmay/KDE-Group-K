@@ -35,7 +35,7 @@
 		rr:predicate rr:Year ;
 		rr:objectMap [
 			rr:column "MONTH" ;
-			rr:datatype xsd:year
+			rr:datatype xsd:integer
 		]
 	] ;
 .

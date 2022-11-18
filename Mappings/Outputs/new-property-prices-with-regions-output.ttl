@@ -1,7 +1,7 @@
 <http://groupj.knowledgegraph/CORK/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1991" ;
+                1991 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 64651 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -10,7 +10,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" ;
+                2007 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 322634 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -19,7 +19,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1977" ;
+                1977 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 18025 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -28,7 +28,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" ;
+                2009 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 231739 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -37,7 +37,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1979" ;
+                1979 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 27164 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -46,7 +46,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" ;
+                2000 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 145713 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -55,7 +55,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1970>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1970" ;
+                1970 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 -1 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -64,7 +64,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1992" ;
+                1992 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 79200 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -73,7 +73,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1974" ;
+                1974 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 9571 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -82,7 +82,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1991" ;
+                1991 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 66914 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -91,7 +91,7 @@
 <http://groupj.knowledgegraph/GALWAY/1997>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1997" ;
+                1997 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 91077 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -100,7 +100,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" ;
+                2010 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 218097 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -109,7 +109,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1989>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1989" ;
+                1989 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 51355 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -118,7 +118,7 @@
 <http://groupj.knowledgegraph/CORK/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" ;
+                2003 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 223388 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -127,7 +127,7 @@
 <http://groupj.knowledgegraph/CORK/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1973" ;
+                1973 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 7678 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -136,7 +136,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" ;
+                2012 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 179716 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -145,7 +145,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1982" ;
+                1982 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 40195 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -154,7 +154,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1986" ;
+                1986 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 47928 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -163,7 +163,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1990" ;
+                1990 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 55729 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -172,7 +172,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" ;
+                2004 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 237858 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -181,7 +181,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1974" ;
+                1974 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 10943 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -190,7 +190,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" ;
+                2003 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 291646 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -199,7 +199,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1973" ;
+                1973 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 9009 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -208,7 +208,7 @@
 <http://groupj.knowledgegraph/GALWAY/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" ;
+                2009 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 260684 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -217,7 +217,7 @@
 <http://groupj.knowledgegraph/GALWAY/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1979" ;
+                1979 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 30466 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -226,7 +226,7 @@
 <http://groupj.knowledgegraph/CORK/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" ;
+                2015 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 241058 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -235,7 +235,7 @@
 <http://groupj.knowledgegraph/CORK/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1985" ;
+                1985 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 42738 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -244,7 +244,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1994" ;
+                1994 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 68238 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -253,7 +253,7 @@
 <http://groupj.knowledgegraph/GALWAY/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" ;
+                2010 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 224778 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -262,7 +262,7 @@
 <http://groupj.knowledgegraph/GALWAY/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1980" ;
+                1980 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 33839 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -271,7 +271,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1986" ;
+                1986 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 50891 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -280,7 +280,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" ;
+                2015 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 377741 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -289,7 +289,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" ;
+                2002 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 198087 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -298,7 +298,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1972" ;
+                1972 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 7198 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -307,7 +307,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1985" ;
+                1985 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 46542 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -316,7 +316,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" ;
+                2004 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 228057 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -325,7 +325,7 @@
 <http://groupj.knowledgegraph/CORK/1997>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1997" ;
+                1997 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 109905 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -334,7 +334,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" ;
+                2006 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 271521 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -343,7 +343,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1976" ;
+                1976 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 15279 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -352,7 +352,7 @@
 <http://groupj.knowledgegraph/GALWAY/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1992" ;
+                1992 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 75417 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -361,7 +361,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1998" ;
+                1998 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 112133 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -370,7 +370,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" ;
+                2014 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 246378 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -379,7 +379,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1984" ;
+                1984 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 43654 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -388,7 +388,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1997>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1997" ;
+                1997 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 122036 , 102222 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -397,7 +397,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1981" ;
+                1981 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 34638 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -406,7 +406,7 @@
 <http://groupj.knowledgegraph/CORK/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" ;
+                2009 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 236113 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -415,7 +415,7 @@
 <http://groupj.knowledgegraph/CORK/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1979" ;
+                1979 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 29064 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -424,7 +424,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1988" ;
+                1988 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 53296 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -433,7 +433,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1996" ;
+                1996 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 82091 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -442,7 +442,7 @@
 <http://groupj.knowledgegraph/GALWAY/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" ;
+                2004 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 210868 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -451,7 +451,7 @@
 <http://groupj.knowledgegraph/GALWAY/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1974" ;
+                1974 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 13356 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -460,7 +460,7 @@
 <http://groupj.knowledgegraph/CORK/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1980" ;
+                1980 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 34617 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -469,7 +469,7 @@
 <http://groupj.knowledgegraph/CORK/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" ;
+                2010 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 219459 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -478,7 +478,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1998" ;
+                1998 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 116589 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -487,7 +487,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" ;
+                2009 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 260170 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -496,7 +496,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1979" ;
+                1979 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 29387 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -505,7 +505,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1993" ;
+                1993 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 61341 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -514,7 +514,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" ;
+                2011 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 241502 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -523,7 +523,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1981" ;
+                1981 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 44456 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -532,7 +532,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" ;
+                2010 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 251629 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -541,7 +541,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1980" ;
+                1980 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 34967 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -550,7 +550,7 @@
 <http://groupj.knowledgegraph/GALWAY/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1986" ;
+                1986 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 49804 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -559,7 +559,7 @@
 <http://groupj.knowledgegraph/CORK/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1992" ;
+                1992 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 65107 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -568,7 +568,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" ;
+                2008 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 305269 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -577,7 +577,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1978" ;
+                1978 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 22839 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -586,7 +586,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" ;
+                2001 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 155488 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -595,7 +595,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1971" ;
+                1971 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6012 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -604,7 +604,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1993" ;
+                1993 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 75539 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -613,7 +613,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1975" ;
+                1975 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 12636 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -622,7 +622,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1992" ;
+                1992 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 69264 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -631,7 +631,7 @@
 <http://groupj.knowledgegraph/GALWAY/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1998" ;
+                1998 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 104248 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -640,7 +640,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" ;
+                2011 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 216400 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -649,7 +649,7 @@
 <http://groupj.knowledgegraph/CORK/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" ;
+                2004 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 242218 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -658,7 +658,7 @@
 <http://groupj.knowledgegraph/CORK/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1974" ;
+                1974 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 9809 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -667,7 +667,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" ;
+                2013 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 154051 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -676,7 +676,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1983>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1983" ;
+                1983 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 41430 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -685,7 +685,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1987" ;
+                1987 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 46966 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -694,7 +694,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1991" ;
+                1991 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 58645 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -703,7 +703,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" ;
+                2005 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 265644 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -712,7 +712,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1975" ;
+                1975 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 13137 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -721,7 +721,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" ;
+                2004 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 322628 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -730,7 +730,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1974" ;
+                1974 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 10836 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -739,7 +739,7 @@
 <http://groupj.knowledgegraph/CORK/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1986" ;
+                1986 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 43844 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -748,7 +748,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1995" ;
+                1995 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 73348 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -757,7 +757,7 @@
 <http://groupj.knowledgegraph/GALWAY/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" ;
+                2011 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 216307 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -766,7 +766,7 @@
 <http://groupj.knowledgegraph/GALWAY/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1981" ;
+                1981 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 39729 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -775,7 +775,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1987" ;
+                1987 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 50864 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -784,7 +784,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" ;
+                2003 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 224567 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -793,7 +793,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1973" ;
+                1973 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 8054 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -802,7 +802,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1986" ;
+                1986 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 48256 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -811,7 +811,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" ;
+                2005 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 254006 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -820,7 +820,7 @@
 <http://groupj.knowledgegraph/CORK/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1998" ;
+                1998 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 118738 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -829,7 +829,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" ;
+                2007 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 292057 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -838,7 +838,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1977" ;
+                1977 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 19992 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -847,7 +847,7 @@
 <http://groupj.knowledgegraph/GALWAY/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1993" ;
+                1993 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 74761 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -856,7 +856,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" ;
+                1999 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 141007 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -865,7 +865,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" ;
+                2015 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 281432 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -874,7 +874,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1985" ;
+                1985 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 45058 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -883,7 +883,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1998" ;
+                1998 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 160699 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -892,7 +892,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1989>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1989" ;
+                1989 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 54732 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -901,7 +901,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" ;
+                2000 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 166557 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -910,7 +910,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1970>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1970" ;
+                1970 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 7051 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -919,7 +919,7 @@
 <http://groupj.knowledgegraph/GALWAY/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" ;
+                2005 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 226393 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -928,7 +928,7 @@
 <http://groupj.knowledgegraph/GALWAY/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1975" ;
+                1975 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 14420 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -937,7 +937,7 @@
 <http://groupj.knowledgegraph/CORK/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" ;
+                2011 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 229558 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -946,7 +946,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" ;
+                1999 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 136970 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -955,7 +955,7 @@
 <http://groupj.knowledgegraph/CORK/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1981" ;
+                1981 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 35464 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -964,7 +964,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1990" ;
+                1990 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 62258 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -973,7 +973,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" ;
+                2012 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 235473 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -982,7 +982,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1982" ;
+                1982 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 48886 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -991,7 +991,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" ;
+                2011 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 290668 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1000,7 +1000,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1981" ;
+                1981 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 40167 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1009,7 +1009,7 @@
 <http://groupj.knowledgegraph/GALWAY/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1987" ;
+                1987 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 48162 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1018,7 +1018,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" ;
+                2000 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 154050 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1027,7 +1027,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1970>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1970" ;
+                1970 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 -1 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1036,7 +1036,7 @@
 <http://groupj.knowledgegraph/CORK/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1993" ;
+                1993 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 68172 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1045,7 +1045,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" ;
+                2009 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 242033 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1054,7 +1054,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1979" ;
+                1979 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 27137 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1063,7 +1063,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" ;
+                2002 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 167272 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1072,7 +1072,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1972" ;
+                1972 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6733 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1081,7 +1081,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1994" ;
+                1994 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 81993 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1090,7 +1090,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" ;
+                2010 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 228268 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1099,7 +1099,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1980" ;
+                1980 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 32663 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1108,7 +1108,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1993" ;
+                1993 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 69883 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1117,7 +1117,7 @@
 <http://groupj.knowledgegraph/GALWAY/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" ;
+                1999 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 121880 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1126,7 +1126,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" ;
+                2012 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 207957 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1135,7 +1135,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1982" ;
+                1982 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 41741 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1144,7 +1144,7 @@
 <http://groupj.knowledgegraph/CORK/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" ;
+                2005 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 274905 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1153,7 +1153,7 @@
 <http://groupj.knowledgegraph/CORK/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1975" ;
+                1975 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 12921 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1162,7 +1162,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" ;
+                2014 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 177122 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1171,7 +1171,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1984" ;
+                1984 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 42944 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1180,7 +1180,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" ;
+                2006 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 305015 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1189,7 +1189,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1992" ;
+                1992 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 62433 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1198,7 +1198,7 @@
 <http://groupj.knowledgegraph/GALWAY/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" ;
+                2000 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 145834 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1207,7 +1207,7 @@
 <http://groupj.knowledgegraph/GALWAY/1970>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1970" ;
+                1970 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 -1 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1216,7 +1216,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1976" ;
+                1976 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 15342 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1225,7 +1225,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1994" ;
+                1994 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 69185 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1234,7 +1234,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" ;
+                2005 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 350891 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1243,7 +1243,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1975" ;
+                1975 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 13254 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1252,7 +1252,7 @@
 <http://groupj.knowledgegraph/CORK/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1987" ;
+                1987 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 45846 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1261,7 +1261,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1996" ;
+                1996 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 83281 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1270,7 +1270,7 @@
 <http://groupj.knowledgegraph/GALWAY/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" ;
+                2012 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 212902 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1279,7 +1279,7 @@
 <http://groupj.knowledgegraph/GALWAY/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1982" ;
+                1982 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 45460 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1288,7 +1288,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1988" ;
+                1988 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 57994 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1297,7 +1297,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" ;
+                2004 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 249191 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1306,7 +1306,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1974" ;
+                1974 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 10851 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1315,7 +1315,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1987" ;
+                1987 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 48151 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1324,7 +1324,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" ;
+                2006 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 276570 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1333,7 +1333,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1976" ;
+                1976 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 13900 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1342,7 +1342,7 @@
 <http://groupj.knowledgegraph/CORK/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" ;
+                1999 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 138928 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1351,7 +1351,7 @@
 <http://groupj.knowledgegraph/WATEFORD/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" ;
+                2001 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 166834 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1360,7 +1360,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" ;
+                2008 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 288478 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1369,7 +1369,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1978" ;
+                1978 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 23077 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1378,7 +1378,7 @@
 <http://groupj.knowledgegraph/GALWAY/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1994" ;
+                1994 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 77375 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1387,7 +1387,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1986" ;
+                1986 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 46486 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1396,7 +1396,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" ;
+                1999 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 193526 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1405,7 +1405,7 @@
 <http://groupj.knowledgegraph/CORK/1970>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1970" ;
+                1970 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 -1 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1414,7 +1414,7 @@
 <http://groupj.knowledgegraph/CORK/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" ;
+                2000 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 163824 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1423,7 +1423,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1988" ;
+                1988 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 47531 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1432,7 +1432,7 @@
 <http://groupj.knowledgegraph/WATEFORD/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" ;
+                2013 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 207573 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1441,7 +1441,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" ;
+                2001 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 174550 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1450,7 +1450,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1971" ;
+                1971 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 7913 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1459,7 +1459,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1970>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1970" ;
+                1970 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6692 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1468,7 +1468,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" ;
+                2000 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 221724 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1477,7 +1477,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1998" ;
+                1998 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 125302 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1486,7 +1486,7 @@
 <http://groupj.knowledgegraph/GALWAY/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" ;
+                2006 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 275411 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1495,7 +1495,7 @@
 <http://groupj.knowledgegraph/GALWAY/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1976" ;
+                1976 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 17842 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1504,7 +1504,7 @@
 <http://groupj.knowledgegraph/CORK/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" ;
+                2012 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 219233 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1513,7 +1513,7 @@
 <http://groupj.knowledgegraph/CORK/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1982" ;
+                1982 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 38213 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1522,7 +1522,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1991" ;
+                1991 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 64598 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1531,7 +1531,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" ;
+                2013 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 240063 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1540,7 +1540,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1983>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1983" ;
+                1983 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 48169 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1549,7 +1549,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" ;
+                2012 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 265633 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1558,7 +1558,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1982" ;
+                1982 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 44060 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1567,7 +1567,7 @@
 <http://groupj.knowledgegraph/GALWAY/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1988" ;
+                1988 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 52238 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1576,7 +1576,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1971" ;
+                1971 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6105 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1585,7 +1585,7 @@
 <http://groupj.knowledgegraph/CORK/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1994" ;
+                1994 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 71378 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1594,7 +1594,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" ;
+                2003 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 195173 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1603,7 +1603,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1973" ;
+                1973 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 7450 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1612,7 +1612,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1995" ;
+                1995 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 86671 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1621,7 +1621,7 @@
 <http://groupj.knowledgegraph/WATEFORD/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" ;
+                2007 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 296605 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1630,7 +1630,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" ;
+                2011 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 230303 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1639,7 +1639,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1981" ;
+                1981 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 37857 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1648,7 +1648,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1994" ;
+                1994 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 72732 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1657,7 +1657,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1983>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1983" ;
+                1983 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 42132 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1666,7 +1666,7 @@
 <http://groupj.knowledgegraph/CORK/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" ;
+                2006 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 286176 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1675,7 +1675,7 @@
 <http://groupj.knowledgegraph/CORK/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1976" ;
+                1976 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 15347 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1684,7 +1684,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" ;
+                2015 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 213506 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1693,7 +1693,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1985" ;
+                1985 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 44511 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1702,7 +1702,7 @@
 <http://groupj.knowledgegraph/GALWAY/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1971" ;
+                1971 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6976 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1711,7 +1711,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1993" ;
+                1993 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 65025 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1720,7 +1720,7 @@
 <http://groupj.knowledgegraph/GALWAY/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" ;
+                2001 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 152205 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1729,7 +1729,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" ;
+                2007 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 325453 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1738,7 +1738,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1977" ;
+                1977 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 19055 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1747,7 +1747,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1995" ;
+                1995 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 69950 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1756,7 +1756,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" ;
+                2006 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 405957 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1765,7 +1765,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1976" ;
+                1976 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 15564 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1774,7 +1774,7 @@
 <http://groupj.knowledgegraph/CORK/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1988" ;
+                1988 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 49605 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1783,7 +1783,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1997>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1997" ;
+                1997 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 91608 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1792,7 +1792,7 @@
 <http://groupj.knowledgegraph/GALWAY/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" ;
+                2013 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 206456 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1801,7 +1801,7 @@
 <http://groupj.knowledgegraph/GALWAY/1983>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1983" ;
+                1983 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 45650 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1810,7 +1810,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1989>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1989" ;
+                1989 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 68393 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1819,7 +1819,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" ;
+                2005 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 276221 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1828,7 +1828,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1975" ;
+                1975 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 13833 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1837,7 +1837,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1988" ;
+                1988 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 52450 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1846,7 +1846,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1977" ;
+                1977 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 17296 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1855,7 +1855,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1990" ;
+                1990 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 80749 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1864,7 +1864,7 @@
 <http://groupj.knowledgegraph/WATEFORD/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" ;
+                2002 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 179936 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1873,7 +1873,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" ;
+                2009 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 227444 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1882,7 +1882,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1979" ;
+                1979 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 30538 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1891,7 +1891,7 @@
 <http://groupj.knowledgegraph/GALWAY/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1995" ;
+                1995 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 87783 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1900,7 +1900,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1987" ;
+                1987 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 45740 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1909,7 +1909,7 @@
 <http://groupj.knowledgegraph/CORK/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1971" ;
+                1971 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6632 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1918,7 +1918,7 @@
 <http://groupj.knowledgegraph/CORK/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" ;
+                2001 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 171161 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1927,7 +1927,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1989>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1989" ;
+                1989 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 50506 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1936,7 +1936,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" ;
+                2010 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 224021 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1945,7 +1945,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1980" ;
+                1980 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 34340 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1954,7 +1954,7 @@
 <http://groupj.knowledgegraph/WATEFORD/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" ;
+                2014 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 214404 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1963,7 +1963,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" ;
+                2002 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 184369 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1972,7 +1972,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1972" ;
+                1972 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 8528 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1981,7 +1981,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1990" ;
+                1990 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 53904 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1990,7 +1990,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" ;
+                1999 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 148521 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -1999,7 +1999,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" ;
+                2001 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 243095 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2008,7 +2008,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1971" ;
+                1971 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 7523 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2017,7 +2017,7 @@
 <http://groupj.knowledgegraph/GALWAY/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" ;
+                2007 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 288202 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2026,7 +2026,7 @@
 <http://groupj.knowledgegraph/GALWAY/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1977" ;
+                1977 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 21715 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2035,7 +2035,7 @@
 <http://groupj.knowledgegraph/CORK/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" ;
+                2013 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 218308 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2044,7 +2044,7 @@
 <http://groupj.knowledgegraph/CORK/1983>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1983" ;
+                1983 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 39223 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2053,7 +2053,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1992" ;
+                1992 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 60184 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2062,7 +2062,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" ;
+                2014 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 242099 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2071,7 +2071,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1984" ;
+                1984 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 48819 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2080,7 +2080,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1970>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1970" ;
+                1970 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 -1 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2089,7 +2089,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" ;
+                2000 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 169191 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2098,7 +2098,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" ;
+                2013 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 300466 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2107,7 +2107,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1983>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1983" ;
+                1983 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 44448 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2116,7 +2116,7 @@
 <http://groupj.knowledgegraph/GALWAY/1989>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1989" ;
+                1989 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 57936 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2125,7 +2125,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1972" ;
+                1972 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6227 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2134,7 +2134,7 @@
 <http://groupj.knowledgegraph/CORK/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1995" ;
+                1995 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 76608 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2143,7 +2143,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" ;
+                2004 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 220286 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2152,7 +2152,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1974>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1974" ;
+                1974 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 10515 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2161,7 +2161,7 @@
 <http://groupj.knowledgegraph/GALWAY/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1990" ;
+                1990 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 68019 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2170,7 +2170,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1996" ;
+                1996 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 97058 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2179,7 +2179,7 @@
 <http://groupj.knowledgegraph/WATEFORD/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" ;
+                2008 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 282677 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2188,7 +2188,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" ;
+                2012 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 220415 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2197,7 +2197,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1982>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1982" ;
+                1982 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 42889 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2206,7 +2206,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1995" ;
+                1995 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 77994 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2215,7 +2215,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1984" ;
+                1984 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 44115 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2224,7 +2224,7 @@
 <http://groupj.knowledgegraph/CORK/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" ;
+                2007 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 300750 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2233,7 +2233,7 @@
 <http://groupj.knowledgegraph/CORK/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1977" ;
+                1977 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 18652 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2242,7 +2242,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1986>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1986" ;
+                1986 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 47222 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2251,7 +2251,7 @@
 <http://groupj.knowledgegraph/GALWAY/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1972" ;
+                1972 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 8867 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2260,7 +2260,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1994>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1994" ;
+                1994 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 66829 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2269,7 +2269,7 @@
 <http://groupj.knowledgegraph/GALWAY/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" ;
+                2002 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 168574 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2278,7 +2278,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" ;
+                2008 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 314276 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2287,7 +2287,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1978" ;
+                1978 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 25745 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2296,7 +2296,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1996" ;
+                1996 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 79784 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2305,7 +2305,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" ;
+                2007 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 416225 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2314,7 +2314,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1977>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1977" ;
+                1977 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 18754 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2323,7 +2323,7 @@
 <http://groupj.knowledgegraph/CORK/1989>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1989" ;
+                1989 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 54670 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2332,7 +2332,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1998>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1998" ;
+                1998 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 107954 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2341,7 +2341,7 @@
 <http://groupj.knowledgegraph/GALWAY/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" ;
+                2014 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 208442 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2350,7 +2350,7 @@
 <http://groupj.knowledgegraph/GALWAY/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1984" ;
+                1984 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 45774 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2359,7 +2359,7 @@
 <http://groupj.knowledgegraph/CORK/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1990" ;
+                1990 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 61074 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2368,7 +2368,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" ;
+                2006 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 305637 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2377,7 +2377,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1976>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1976" ;
+                1976 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 15361 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2386,7 +2386,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1989>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1989" ;
+                1989 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 58178 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2395,7 +2395,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1978" ;
+                1978 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 21295 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2404,7 +2404,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1991" ;
+                1991 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 78715 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2413,7 +2413,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1990>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1990" ;
+                1990 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 65541 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2422,7 +2422,7 @@
 <http://groupj.knowledgegraph/GALWAY/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1996" ;
+                1996 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 93050 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2431,7 +2431,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1988>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1988" ;
+                1988 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 47380 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2440,7 +2440,7 @@
 <http://groupj.knowledgegraph/CORK/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" ;
+                2002 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 187607 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2449,7 +2449,7 @@
 <http://groupj.knowledgegraph/CORK/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1972" ;
+                1972 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 7676 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2458,7 +2458,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" ;
+                2011 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 205598 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2467,7 +2467,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1981>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1981" ;
+                1981 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 41520 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2476,7 +2476,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" ;
+                2003 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 211980 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2485,7 +2485,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1973" ;
+                1973 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 9206 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2494,7 +2494,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1991" ;
+                1991 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 53366 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2503,7 +2503,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" ;
+                2002 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 256109 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2512,7 +2512,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1972>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1972" ;
+                1972 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 8249 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2521,7 +2521,7 @@
 <http://groupj.knowledgegraph/GALWAY/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" ;
+                2008 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 276719 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2530,7 +2530,7 @@
 <http://groupj.knowledgegraph/GALWAY/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1978" ;
+                1978 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 26244 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2539,7 +2539,7 @@
 <http://groupj.knowledgegraph/CORK/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" ;
+                2014 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 218016 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2548,7 +2548,7 @@
 <http://groupj.knowledgegraph/CORK/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1984" ;
+                1984 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 41105 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2557,7 +2557,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1993>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1993" ;
+                1993 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 66825 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2566,7 +2566,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" ;
+                2015 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 255010 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2575,7 +2575,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1985" ;
+                1985 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 49166 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2584,7 +2584,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" ;
+                2014 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 333720 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2593,7 +2593,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" ;
+                2001 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 182863 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2602,7 +2602,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1971>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1971" ;
+                1971 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6427 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2611,7 +2611,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1984>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1984" ;
+                1984 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 45419 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2620,7 +2620,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" ;
+                2003 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 203125 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2629,7 +2629,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1973" ;
+                1973 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 6928 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2638,7 +2638,7 @@
 <http://groupj.knowledgegraph/CORK/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1996" ;
+                1996 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 85351 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2647,7 +2647,7 @@
 <http://groupj.knowledgegraph/LIMERICK/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" ;
+                2005 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 246914 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2656,7 +2656,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1975>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1975" ;
+                1975 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 13594 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2665,7 +2665,7 @@
 <http://groupj.knowledgegraph/GALWAY/1991>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1991" ;
+                1991 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 66784 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2674,7 +2674,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1997>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1997" ;
+                1997 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 96046 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2683,7 +2683,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" ;
+                2013 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 228216 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2692,7 +2692,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1983>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1983" ;
+                1983 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 43501 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2701,7 +2701,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1996>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1996" ;
+                1996 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 87202 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2710,7 +2710,7 @@
 <http://groupj.knowledgegraph/WATERFORD/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" ;
+                2015 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 "Other Areas"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2719,7 +2719,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1985" ;
+                1985 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 43741 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2728,7 +2728,7 @@
 <http://groupj.knowledgegraph/CORK/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" ;
+                2008 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 292777 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2737,7 +2737,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1980" ;
+                1980 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 32136 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2746,7 +2746,7 @@
 <http://groupj.knowledgegraph/CORK/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1978" ;
+                1978 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 22460 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2755,7 +2755,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1987>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1987" ;
+                1987 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 46946 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2764,7 +2764,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" ;
+                2009 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 252011 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2773,7 +2773,7 @@
 <http://groupj.knowledgegraph/OTHER%20AREAS/1995>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1995" ;
+                1995 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 71829 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2782,7 +2782,7 @@
 <http://groupj.knowledgegraph/GALWAY/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" ;
+                2003 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 197672 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2791,7 +2791,7 @@
 <http://groupj.knowledgegraph/GALWAY/1973>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1973" ;
+                1973 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 9405 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2800,7 +2800,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1979>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1979" ;
+                1979 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 32005 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2809,7 +2809,7 @@
 <http://groupj.knowledgegraph/WATERFORD/1997>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1997" ;
+                1997 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 94664 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2818,7 +2818,7 @@
 <http://groupj.knowledgegraph/NATIONAL/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" ;
+                2008 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 370495 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2827,7 +2827,7 @@
 <http://groupj.knowledgegraph/NATIONAL/1978>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1978" ;
+                1978 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 24082 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2836,7 +2836,7 @@
 <http://groupj.knowledgegraph/WATEFORD/1992>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1992" ;
+                1992 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 52656 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2845,7 +2845,7 @@
 <http://groupj.knowledgegraph/LIMERICK/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" ;
+                1999 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 132050 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2854,7 +2854,7 @@
 <http://groupj.knowledgegraph/DUBLIN/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" ;
+                2010 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 244333 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2863,7 +2863,7 @@
 <http://groupj.knowledgegraph/DUBLIN/1980>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1980" ;
+                1980 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 37822 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2872,7 +2872,7 @@
 <http://groupj.knowledgegraph/GALWAY/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" ;
+                2015 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 232791 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>
@@ -2881,7 +2881,7 @@
 <http://groupj.knowledgegraph/GALWAY/1985>
         a       <http://dbpedia.org/ontology/year> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1985" ;
+                1985 ;
         <http://xmlns.com/foaf/0.1/NewPropertyPrices>
                 49004 ;
         <http://xmlns.com/foaf/0.1/hasAddressRegion/Region>

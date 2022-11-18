@@ -16,7 +16,8 @@
 	rr:predicateObjectMap [
 		rr:predicate xsd:gYear ;
 		rr:objectMap 
-		[ rr:column "YEAR";]
+		[ rr:column "YEAR";
+		  rr:datatype xsd:integer]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:Region ;

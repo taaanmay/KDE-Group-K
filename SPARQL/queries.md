@@ -130,23 +130,19 @@ WHERE
 
 ---
 
-### 7 - What was the average price approved by national banks for second hand houses when new property house price was greater than €400,000 ?
+### 7 - What was the average price approved by national banks for second hand houses when new property house price (nationally) was greater than €300,000 ?
 
 ---
 
 ```
-SELECT ?oldHousesSubject ?approvedByNationalBanks where { 
-	
+
+select ?oldHousesSubject ?approvedByNationalBanks where { 
     ?years <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "NATIONAL" .
     ?years <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newHousePrices .
-    FILTER ( ?newHousePrices >= 400000) .
+    FILTER ( ?newHousePrices >= 300000) .
     ?years <http://www.w3.org/2001/XMLSchema#gYear> ?yearInt.
     ?oldHousesSubject <http://www.w3.org/2001/XMLSchema#gYear> ?yearInt.
     ?oldHousesSubject <http://example.com/ns#ApprovedByNationalBanks> ?approvedByNationalBanks.
-    
-    
-    
-    
 } limit 100 
 
 ```

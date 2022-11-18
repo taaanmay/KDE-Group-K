@@ -11,7 +11,7 @@
 		rr:tableName "NationalSchoolPupils" 
 	] ;
 	rr:subjectMap [
-		rr:template "http://groupj.knowledgegraph/{REGION}/{YEAR}";
+		rr:template "http://groupj.knowledgegraph/{REGION}/{YEAR}/{SCHOOLPROGRAMME}";
 		rdf:type owl:Class ;
 	] ;
 	
@@ -32,7 +32,7 @@
 	] ;
 
 	rr:predicateObjectMap [
-		rr:predicate rr:ProgramAttendees ;
+		rr:predicate rr:ProgramAttendees;
 		rr:objectMap [
 			rr:column "NUMBEROFPUPILS" ;
 			rr:datatype xsd:integer

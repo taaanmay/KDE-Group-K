@@ -18,21 +18,25 @@ rr:logicalTable [ rr:tableName "LOANAPPROVALS"];
 	
 	rr:predicateObjectMap [
 		rr:predicate xsd:gYear ;
-		rr:objectMap [ rr:column "YEAR" ]
+		rr:objectMap [ rr:column "YEAR";
+					   rr:datatype xsd:integer ]
 	] ;
 
 	rr:predicateObjectMap [
 		rr:predicate ex:NewHouses ;
-		rr:objectMap [ rr:column "New Houses Number" ]
+		rr:objectMap [ rr:column "New Houses Number";
+					   rr:datatype xsd:integer ]
 	] ;
 
 	rr:predicateObjectMap [
 		rr:predicate ex:OtherHouses ;
-		rr:objectMap [ rr:column "Other Houses Number" ]
+		rr:objectMap [ rr:column "Other Houses Number";
+					   rr:datatype xsd:integer ]
 	] ;
 
 	rr:predicateObjectMap [
 		rr:predicate ex:TotalHouses ;
-		rr:objectMap [ rr:column "Total Houses Number" ]
+		rr:objectMap [ rr:column "Total Houses Number";
+					   rr:datatype xsd:integer ]
 	] ;
  .

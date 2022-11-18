@@ -23,7 +23,7 @@
 		rr:objectMap [ rr:column "REGION" ]
 	] ;
 	rr:predicateObjectMap [
-		rr:predicate foaf:hasValue;
+		rr:predicate foaf:NewPropertyPrices;
 		rr:objectMap  [ 
 			rr:column "VALUE";
 			rr:termType rr:Literal;

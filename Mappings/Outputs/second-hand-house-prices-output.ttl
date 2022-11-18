@@ -1,220 +1,220 @@
 <http://groupj.knowledgegraph/SecondHandHousePrices/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "252,990" ;
+                "252,990"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "132,563" ;
+                "132,563"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "191,892" ;
+                "191,892"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "118,916" ;
+                "118,916"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" .
+                2000 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "458,633" ;
+                "458,633"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "212,437" ;
+                "212,437"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "331,732" ;
+                "331,732"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "170,307" ;
+                "170,307"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" .
+                2005 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "369,082" ;
+                "369,082"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "125,028" ;
+                "125,028"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "270,146" ;
+                "270,146"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "99,601" ;
+                "99,601"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" .
+                2014 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "367,376" ;
+                "367,376"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "188,929" ;
+                "188,929"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "266,375" ;
+                "266,375"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "147,131" ;
+                "147,131"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" .
+                2003 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "479,993" ;
+                "479,993"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "262,500" ;
+                "262,500"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "356,554" ;
+                "356,554"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "213,153" ;
+                "213,153"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" .
+                2008 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "338,487" ;
+                "338,487"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "135,069" ;
+                "135,069"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "256,120" ;
+                "256,120"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "114,168" ;
+                "114,168"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" .
+                2012 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "277,722" ;
+                "277,722"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "160,492" ;
+                "160,492"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "209,103" ;
+                "209,103"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "135,683" ;
+                "135,683"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" .
+                2001 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "544,319" ;
+                "544,319"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "249,222" ;
+                "249,222"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "374,247" ;
+                "374,247"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "170,084" ;
+                "170,084"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" .
+                2006 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "361,918" ;
+                "361,918"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "110,000" ;
+                "110,000"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "279,677" ;
+                "279,677"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "165,071" ;
+                "165,071"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" .
+                2010 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "350,390" ;
+                "350,390"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "160,864" ;
+                "160,864"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "272,954" ;
+                "272,954"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "115,251" ;
+                "115,251"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" .
+                2015 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "405,891" ;
+                "405,891"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "198,098" ;
+                "198,098"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "296,688" ;
+                "296,688"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "158,174" ;
+                "158,174"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" .
+                2004 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "364,781" ;
+                "364,781"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "235,133" ;
+                "235,133"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "280,360" ;
+                "280,360"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "200,190" ;
+                "200,190"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" .
+                2009 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "216,980" ;
+                "216,980"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "118,742" ;
+                "118,742"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "164,695" ;
+                "164,695"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "104,562" ;
+                "104,562"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" .
+                1999 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "374,890" ;
+                "374,890"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "183,367" ;
+                "183,367"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "264,463" ;
+                "264,463"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "120,256" ;
+                "120,256"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" .
+                2013 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "307,757" ;
+                "307,757"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "170,472" ;
+                "170,472"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "229,720" ;
+                "229,720"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "140,609" ;
+                "140,609"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" .
+                2002 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "533,383" ;
+                "533,383"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "253,159" ;
+                "253,159"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "384,459" ;
+                "384,459"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "194,395" ;
+                "194,395"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" .
+                2007 .
 
 <http://groupj.knowledgegraph/SecondHandHousePrices/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#ApprovedByDublinBanks>
-                "346,177" ;
+                "346,177"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByDublinLocalAuthorities>
-                "137,697" ;
+                "137,697"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalBanks>
-                "266,923" ;
+                "266,923"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#ApprovedByNationalLocalAuthorities>
-                "125,169" ;
+                "125,169"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" .
+                2011 .

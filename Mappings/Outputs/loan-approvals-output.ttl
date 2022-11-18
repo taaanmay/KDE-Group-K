@@ -1,186 +1,186 @@
 <http://groupj.knowledgegraph/LoanApproval/2005>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "58,027" ;
+                "58,027"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "61,863" ;
+                "61,863"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "119,890" ;
+                "119,890"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2005" .
+                2005 .
 
 <http://groupj.knowledgegraph/LoanApproval/2014>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "4,440" ;
+                "4,440"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "27,235" ;
+                "27,235"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "31,675" ;
+                "31,675"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2014" .
+                2014 .
 
 <http://groupj.knowledgegraph/LoanApproval/2003>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "39,610" ;
+                "39,610"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "58,116" ;
+                "58,116"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "97,726" ;
+                "97,726"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2003" .
+                2003 .
 
 <http://groupj.knowledgegraph/LoanApproval/2008>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "26,260" ;
+                "26,260"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "29,569" ;
+                "29,569"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "55,829" ;
+                "55,829"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2008" .
+                2008 .
 
 <http://groupj.knowledgegraph/LoanApproval/2012>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "3,408" ;
+                "3,408"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "14,187" ;
+                "14,187"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "17,595" ;
+                "17,595"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2012" .
+                2012 .
 
 <http://groupj.knowledgegraph/LoanApproval/2001>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "29,202" ;
+                "29,202"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "39,668" ;
+                "39,668"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "68,870" ;
+                "68,870"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2001" .
+                2001 .
 
 <http://groupj.knowledgegraph/LoanApproval/2006>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "53,771" ;
+                "53,771"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "60,656" ;
+                "60,656"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "114,427" ;
+                "114,427"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2006" .
+                2006 .
 
 <http://groupj.knowledgegraph/LoanApproval/2010>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "6,938" ;
+                "6,938"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "12,991" ;
+                "12,991"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "19,929" ;
+                "19,929"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2010" .
+                2010 .
 
 <http://groupj.knowledgegraph/LoanApproval/2015>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "4,638" ;
+                "4,638"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "27,300" ;
+                "27,300"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "31,938" ;
+                "31,938"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2015" .
+                2015 .
 
 <http://groupj.knowledgegraph/LoanApproval/2004>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "49,934" ;
+                "49,934"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "54,200" ;
+                "54,200"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "104,134" ;
+                "104,134"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2004" .
+                2004 .
 
 <http://groupj.knowledgegraph/LoanApproval/2009>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "12,547" ;
+                "12,547"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "15,312" ;
+                "15,312"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "27,859" ;
+                "27,859"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2009" .
+                2009 .
 
 <http://groupj.knowledgegraph/LoanApproval/1999>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "32,688" ;
+                "32,688"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "45,772" ;
+                "45,772"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "78,460" ;
+                "78,460"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "1999" .
+                1999 .
 
 <http://groupj.knowledgegraph/LoanApproval/2013>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "2,910" ;
+                "2,910"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "16,136" ;
+                "16,136"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "19,046" ;
+                "19,046"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2013" .
+                2013 .
 
 <http://groupj.knowledgegraph/LoanApproval/2002>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "39,310" ;
+                "39,310"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "53,608" ;
+                "53,608"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "92,918" ;
+                "92,918"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2002" .
+                2002 .
 
 <http://groupj.knowledgegraph/LoanApproval/2007>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "40,466" ;
+                "40,466"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "48,224" ;
+                "48,224"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "88,690" ;
+                "88,690"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2007" .
+                2007 .
 
 <http://groupj.knowledgegraph/LoanApproval/2011>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "2,919" ;
+                "2,919"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "9,805" ;
+                "9,805"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "12,724" ;
+                "12,724"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2011" .
+                2011 .
 
 <http://groupj.knowledgegraph/LoanApproval/2000>
         a       <http://dbpedia.org/ontology/year> ;
         <http://example.com/ns#NewHouses>
-                "33,229" ;
+                "33,229"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#OtherHouses>
-                "47,471" ;
+                "47,471"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://example.com/ns#TotalHouses>
-                "80,700" ;
+                "80,700"^^<http://www.w3.org/2001/XMLSchema#integer> ;
         <http://www.w3.org/2001/XMLSchema#gYear>
-                "2000" .
+                2000 .

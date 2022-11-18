@@ -15,22 +15,27 @@
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate xsd:gYear ;
-		rr:objectMap [ rr:column "YEAR" ]
+		rr:objectMap [ rr:column "YEAR";
+					   rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:ApprovedByNationalBanks ;
-		rr:objectMap [ rr:column "Average price of loans approved by National Banks & Building Societies" ]
+		rr:objectMap [ rr:column "Average price of loans approved by National Banks & Building Societies" ;
+					   rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:ApprovedByNationalLocalAuthorities ;
-		rr:objectMap [ rr:column "Average price of loans approved by National Local Authorities" ]
+		rr:objectMap [ rr:column "Average price of loans approved by National Local Authorities" ;
+					   rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:ApprovedByDublinBanks ;
-		rr:objectMap [ rr:column "Average price of loans approved by Dublin Banks & Building Societies" ]
+		rr:objectMap [ rr:column "Average price of loans approved by Dublin Banks & Building Societies" ;
+					   rr:datatype xsd:integer ]
 	] ;
 	rr:predicateObjectMap [
 		rr:predicate ex:ApprovedByDublinLocalAuthorities ;
-		rr:objectMap [ rr:column "Average price of loans approved by Dublin Local Authorities" ]
+		rr:objectMap [ rr:column "Average price of loans approved by Dublin Local Authorities" ;
+					   rr:datatype xsd:integer ]
 	] ;
 	.

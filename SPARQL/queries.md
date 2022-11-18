@@ -14,8 +14,6 @@ WHERE
     ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .
     ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear
     FILTER (?laYear = ?irYear)
-
-
 }
 ```
 
@@ -26,7 +24,19 @@ WHERE
 ---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT
+?irYear ?newPropertyPrice
+WHERE
+{
+    ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .
+    BIND (STRAFTER(STRBEFORE(STR(?irObj), "M"), "_") as ?irYear) .
+    FILTER ( ?ir < 3.0) .
+    ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "DUBLIN" .
+    ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newPropertyPrice .
+    ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?nppYear
+    FILTER (?nppYear = ?irYear)
+}
 ```
 
 ---

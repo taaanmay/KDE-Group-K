@@ -101,7 +101,31 @@ WHERE
 ---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT
+?region
+WHERE
+{
+    {
+        SELECT (MAX(?npp) AS ?maxnpp) WHERE
+        {
+            {
+                SELECT (MAX(?ir) AS ?maxir) WHERE
+                {
+                    ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .
+                }
+            }
+            ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?maxir .
+            ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr .
+            BIND (xsd:integer(STRBEFORE(STR(?irYearStr), "M")) as ?year) .
+            ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year .
+
+            ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp .
+        }
+    }
+    ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?maxnpp .
+    ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> ?region .
+}
 ```
 
 ---

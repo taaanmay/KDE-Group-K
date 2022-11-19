@@ -40,6 +40,7 @@ td:nth-child(even),
 th:nth-child(even) {
 	background-color: #2e273d;
 	width: 40%;
+	padding: 0 5px;
 }
 
 button {

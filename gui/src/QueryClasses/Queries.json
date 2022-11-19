@@ -15,17 +15,9 @@
 			{ "value": "?" }
 		],
 		"vars": {
-			"rateType": {
-				"type": "interestRateType",
-				"value": "VariableInterestRate"
-			},
 			"rateValue": {
 				"type": "number",
 				"value": "4.5"
-			},
-			"loanType": {
-				"type": "loanType",
-				"value": "TotalHouses"
 			}
 		},
 		"questionBuilder": [

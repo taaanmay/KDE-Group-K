@@ -85,5 +85,121 @@
 			["vars", "region"],
 			["queryStrings", 2]
 		]
+	},
+	"q3": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?totalLoansApproved ?year WHERE { ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+			{
+				"value": "' . ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp . FILTER ( ?npp > "
+			},
+			{
+				"value": " ) . FILTER ( ?npp < "
+			},
+			{
+				"value": " ) . ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year . ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "When the average new property price in "
+			},
+			{
+				"value": " was between "
+			},
+			{ "value": " and " },
+			{ "value": ", how many new loans were approved?" }
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "DUBLIN"
+			},
+			"upperBound": {
+				"type": "number",
+				"value": "250000"
+			},
+			"lowerBound": {
+				"type": "number",
+				"value": "200000"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1],
+			["vars", "lowerBound"],
+			["questionStrings", 2],
+			["vars", "upperBound"],
+			["questionStrings", 3]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1],
+			["vars", "lowerBound"],
+			["queryStrings", 2],
+			["vars", "upperBound"],
+			["queryStrings", 3]
+		]
+	},
+	"q4": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT (COUNT (DISTINCT ?year) AS ?Years) WHERE { ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+			{
+				"value": "' . ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp . FILTER ( ?npp > "
+			},
+			{
+				"value": " ) . ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year . ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .  FILTER ( ?totalLoansApproved > "
+			},
+			{
+				"value": " ) . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "For how many years between 1999 and 2015 were the property prices in "
+			},
+			{
+				"value": " above "
+			},
+			{ "value": " and there were more than " },
+			{ "value": " loans approved?" }
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "DUBLIN"
+			},
+			"lowerBoundPrices": {
+				"type": "number",
+				"value": "200000"
+			},
+			"lowerBoundLoans": {
+				"type": "number",
+				"value": "100000"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1],
+			["vars", "lowerBoundPrices"],
+			["questionStrings", 2],
+			["vars", "lowerBoundLoans"],
+			["questionStrings", 3]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1],
+			["vars", "lowerBoundPrices"],
+			["queryStrings", 2],
+			["vars", "lowerBoundLoans"],
+			["queryStrings", 3]
+		]
 	}
 }

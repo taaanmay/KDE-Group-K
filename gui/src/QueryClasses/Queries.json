@@ -1,0 +1,42 @@
+{
+	"q1": {
+		"queryStrings": [
+			{
+				"value": "SELECT DISTINCT ?year ?totalLoansApproved WHERE { ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir; <http://www.w3.org/ns/r2rml#Year> ?irYearStr. BIND(xsd:integer(STRBEFORE(STR(?irYearStr), 'M')) AS ?year) FILTER(?ir > '"
+			},
+			{
+				"value": "'^^xsd:decimal) ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved; xsd:gYear ?year.}"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "How many new homes were approved loans when the annual interest rate was over "
+			},
+			{ "value": "?" }
+		],
+		"vars": {
+			"rateType": {
+				"type": "interestRateType",
+				"value": "VariableInterestRate"
+			},
+			"rateValue": {
+				"type": "number",
+				"value": "4.5"
+			},
+			"loanType": {
+				"type": "loanType",
+				"value": "TotalHouses"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "rateValue"],
+			["questionStrings", 1]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "rateValue"],
+			["queryStrings", 1]
+		]
+	}
+}

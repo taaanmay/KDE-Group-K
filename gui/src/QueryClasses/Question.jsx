@@ -3,18 +3,48 @@ import QueryInput from "./QueryInput";
 
 class Question extends React.Component {
 	onCLick = async () => {
+		// console.log(
+		// 	"http://localhost:7200/repositories/KDE?query=" +
+		// 		encodeURI(
+		// 			"SELECT DISTINCT ?irObj ?totalLoansApproved WHERE { ?irObj ?tmp ?ir.} LIMIT 100"
+		// 		),
+		// 	{
+		// 		headers: {
+		// 			Accept: "application/json",
+		// 			"Content-Type": "application/json",
+		// 		},
+		// 	}
+		// );
+
+		// fetch(
+		// 	"http://localhost:7200/repositories/KDE?query=" +
+		// 		encodeURI(this.props.question.toQuery()),
+		// 	{
+		// 		headers: {
+		// 			Accept: "application/json",
+		// 			"Content-Type": "application/json",
+		// 		},
+		// 	}
+		// )
 		fetch(
-			"http://localhost:7200/repositories/KDE?query=" +
-				encodeURI(this.props.question.toQuery()),
+			"http://localhost:7200/repositories/KDE",
+			// encodeURI(
+			// 	"SELECT DISTINCT ?irObj ?totalLoansApproved WHERE { ?irObj ?tmp ?ir.} LIMIT 100"
+			// ),
 			{
+				method: "POST",
 				headers: {
 					Accept: "application/json",
-					"Content-Type": "application/json",
+					"Content-Type": "application/sparql-query",
 				},
+				body: this.props.question.toQuery(),
 			}
 		)
-			.then((response) => response.json())
+			.then((response) => {
+				return response.json();
+			})
 			.then((data) => {
+				// console.log(data.results.bindings)
 				this.props.updateResults(data.results.bindings);
 			});
 	};
@@ -56,7 +86,8 @@ class Question extends React.Component {
 	render() {
 		return (
 			<div className="question">
-				{this.renderInputs()}
+				{/* {this.renderInputs()} */}
+				{this.props.question.toString()}
 				<br />
 				<button className="send-query-button" onClick={this.onCLick}>
 					Send Query

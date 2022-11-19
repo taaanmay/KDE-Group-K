@@ -1,36 +1,16 @@
 import React from "react";
 import Question from "./Question";
 import QuestionObject from "./QuestionObject";
+import Queries from "./Queries.json";
 
 class Dropdown extends React.Component {
 	constructor(props) {
 		super(props);
-		this.questions = [
-			new QuestionObject(
-				[
-					"How many new homes were approved loans when the annual interest rate was over ",
-					"%? ",
-				],
-				[{ value: "5", type: "text" }],
-				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
-			),
-			new QuestionObject(
-				[
-					"What was the average price for new properties in Dublin when the interest rate was less than ",
-					"%? ",
-				],
-				[{ value: "5", type: "text" }],
-				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
-			),
-			new QuestionObject(
-				[
-					"When the average new property price in Dublin was ",
-					" how many new loans were approved? ",
-				],
-				[{ value: "5", type: "text" }],
-				["SELECT * WHERE { ?s ?p ?o } LIMIT "]
-			),
-		];
+		this.questions = [];
+		Object.keys(Queries).forEach((query) => {
+			this.questions.push(new QuestionObject(Queries[query]));
+		});
+
 		this.state = { selected: this.questions[0], down: false };
 	}
 

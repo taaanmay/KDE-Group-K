@@ -27,6 +27,11 @@ class Dropdown extends React.Component {
 		);
 	};
 
+	onSelect = (q) => {
+		this.setState({ selected: q, down: false });
+		console.log(this.state.selected);
+	};
+
 	render() {
 		return (
 			<div className="dropdown">
@@ -41,18 +46,11 @@ class Dropdown extends React.Component {
 					{this.state.down ? (
 						<ul>
 							{this.questions.map((q) => {
-								let onSelect = () => {
-									this.setState({ selected: q, down: false });
-									console.log("click");
-
-									console.log(q);
-									console.log(this.state.selected);
-								};
 								return (
 									<li
 										className="dropdown-option"
-										key={q.strings[0]}
-										onClick={onSelect}
+										key={q.toString()}
+										onClick={() => this.onSelect(q)}
 									>
 										{q.toString()}
 									</li>

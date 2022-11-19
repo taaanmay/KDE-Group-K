@@ -44,7 +44,7 @@ class Dropdown extends React.Component {
 					{this.renderQuestion(this.state.selected)}
 
 					{this.state.down ? (
-						<ul>
+						<ul className="dropdown-options">
 							{this.questions.map((q) => {
 								return (
 									<li

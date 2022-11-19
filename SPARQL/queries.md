@@ -160,13 +160,13 @@ WHERE
 
 ```
 
-select ?oldHousesSubject ?approvedByNationalBanks where {
+select ?year ?averageLoanPrice where {
     ?years <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "NATIONAL" .
     ?years <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newHousePrices .
     FILTER ( ?newHousePrices >= 300000) .
-    ?years <http://www.w3.org/2001/XMLSchema#gYear> ?yearInt.
-    ?oldHousesSubject <http://www.w3.org/2001/XMLSchema#gYear> ?yearInt.
-    ?oldHousesSubject <http://example.com/ns#ApprovedByNationalBanks> ?approvedByNationalBanks.
+    ?years <http://www.w3.org/2001/XMLSchema#gYear> ?year.
+    ?oldHousesSubject <http://www.w3.org/2001/XMLSchema#gYear> ?year.
+    ?oldHousesSubject <http://example.com/ns#ApprovedByNationalBanks> ?averageLoanPrice.
 } limit 100
 
 ```

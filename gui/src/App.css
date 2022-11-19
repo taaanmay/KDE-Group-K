@@ -71,6 +71,14 @@ button {
 	flex-direction: column;
 	text-align: left;
 	margin: 5px;
+	padding: 1%;
+	/* min-width: 30px; */
+	/* width: 40vw; */
+}
+.dropdown-options {
+	max-height: 60vh;
+	overflow: scroll;
+	/* border-top: 1px solid #b9b4c177; */
 }
 
 .dropdown-option {

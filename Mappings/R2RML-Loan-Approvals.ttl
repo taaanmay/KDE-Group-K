@@ -39,4 +39,22 @@ rr:logicalTable [ rr:tableName "LOANAPPROVALS"];
 		rr:objectMap [ rr:column "Total Houses Number";
 					   rr:datatype xsd:integer ]
 	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:NewHouseValue ;
+		rr:objectMap [ rr:column "New Houses Value (m)";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:OtherHouseValue ;
+		rr:objectMap [ rr:column "Other Houses Value (m)";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:TotalHouseValue ;
+		rr:objectMap [ rr:column "Total Houses Value (m)";
+					   rr:datatype xsd:integer ]
+	] ;
  .

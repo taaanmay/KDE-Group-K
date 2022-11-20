@@ -198,7 +198,20 @@ select ?year ?averageLoanPrice where {
 ---
 
 ```
- QUERY HERE
+select ?priceInGalway where { 
+	{
+                SELECT (MAX(?ir) AS ?maxir) WHERE
+                {
+                    ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .
+                }
+    }
+    ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?maxir .
+    ?irObj <http://www.w3.org/ns/r2rml#Year> ?yearWithMonth.
+    BIND (xsd:integer(STRBEFORE(STR(?yearWithMonth), "M")) as ?yearWithHighestIR) .
+    ?newHouseSubj <http://www.w3.org/2001/XMLSchema#gYear> ?yearWithHighestIR.
+    ?newHouseSubj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "GALWAY".
+    ?newHouseSubj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?priceInGalway.
+}  
 ```
 
 ---

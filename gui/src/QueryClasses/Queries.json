@@ -363,10 +363,10 @@
 	"q10": {
 		"queryStrings": [
 			{
-				"value": "select ?Price where {{SELECT (MAX(?ir) AS ?maxir) WHERE{?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .}}?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?maxir .?irObj <http://www.w3.org/ns/r2rml#Year> ?yearWithMonth.BIND (xsd:integer(STRBEFORE(STR(?yearWithMonth), 'M')) as ?yearWithHighestIR) .?newHouseSubj <http://www.w3.org/2001/XMLSchema#gYear> ?yearWithHighestIR.?newHouseSubj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+				"value": "select ?Prices where {{SELECT (AVG(?ir) AS ?avgInterestRate) WHERE{?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .}}?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?interestRates .FILTER(?interestRates > ?avgInterestRate).?irObj <http://www.w3.org/ns/r2rml#Year> ?yearWithMonth.BIND (xsd:integer(STRBEFORE(STR(?yearWithMonth), 'M')) as ?yearWithHigherIR) .?newHouseSubj <http://www.w3.org/2001/XMLSchema#gYear> ?yearWithHigherIR.?newHouseSubj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
 			},
 			{
-				"value": "'.?newHouseSubj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?Price.}"
+				"value": "'.?newHouseSubj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?Prices. }"
 			}
 		],
 		"questionStrings": [

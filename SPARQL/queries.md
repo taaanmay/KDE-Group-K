@@ -173,12 +173,39 @@ select ?year ?averageLoanPrice where {
 
 ---
 
-### 8 - What was the average property price of new houses in Dublin in the year when interest rates changed the least?
+### 8 - What was the average property price of new houses in Dublin in the year when loan approvals changed the least?
 
 ---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?year ?newPropertyPrice
+WHERE
+{
+    {
+        {
+            SELECT (MIN(?laChange) AS ?minlaChange) WHERE
+            {
+                ?laObj <http://example.com/ns#TotalHouses> ?la .
+                ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear .
+                BIND (?laYear - 1 AS ?lastyear) .
+                ?laObjPrev <http://www.w3.org/2001/XMLSchema#gYear> ?lastyear .
+                ?laObjPrev <http://example.com/ns#TotalHouses> ?laPrev .
+                BIND (ABS(?la - ?laPrev) AS ?laChange) .
+            }
+        }
+        ?laObj <http://example.com/ns#TotalHouses> ?la .
+        ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year .
+        BIND (?year - 1 AS ?lastyear) .
+        ?laObjPrev <http://www.w3.org/2001/XMLSchema#gYear> ?lastyear .
+        ?laObjPrev <http://example.com/ns#TotalHouses> ?laPrev .
+        BIND (ABS(?la - ?laPrev) AS ?laChange) .
+        FILTER (?laChange = ?minlaChange)
+        ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year .
+        ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "DUBLIN" .
+        ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newPropertyPrice .
+    }
+}
 ```
 
 ---
@@ -198,7 +225,7 @@ select ?year ?averageLoanPrice where {
 ---
 
 ```
-select ?priceInGalway where { 
+select ?priceInGalway where {
 	{
                 SELECT (MAX(?ir) AS ?maxir) WHERE
                 {
@@ -211,7 +238,7 @@ select ?priceInGalway where {
     ?newHouseSubj <http://www.w3.org/2001/XMLSchema#gYear> ?yearWithHighestIR.
     ?newHouseSubj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "GALWAY".
     ?newHouseSubj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?priceInGalway.
-}  
+}
 ```
 
 ---

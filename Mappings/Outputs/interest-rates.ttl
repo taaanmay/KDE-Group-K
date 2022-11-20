@@ -1,1023 +1,1023 @@
 <http://example.com/InterestRates_2022M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "6.17666666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6.17666666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.15666666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.15666666666667 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "7.06"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7.06 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.76"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.76 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "7.82083333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7.82083333333333 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.0975"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.0975 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "6.96916666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6.96916666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.13"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.13 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2022M08>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "6.2975"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6.2975 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.3725"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.3725 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "5.08833333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                5.08833333333333 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.25"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.25 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "5.345"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                5.345 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "2.87"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                2.87 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2022M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "6.13916666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6.13916666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.37"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.37 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2022M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "5.695"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                5.695 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "2.96"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                2.96 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "8.04416666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                8.04416666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.02"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.02 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2022M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "6.48083333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6.48083333333333 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.31"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.31 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "5.19416666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                5.19416666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.12"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.12 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2022M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "7.31416666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7.31416666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "4.86"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                4.86 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "6.58083333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6.58083333333333 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.4"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.4 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "7.6375"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7.6375 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "5.13"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                5.13 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2022M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "8.1"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                8.1 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.13"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.13 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "5.62166666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                5.62166666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.28"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.28 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2022M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2022M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2022M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "5.63666666666667"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                5.63666666666667 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.19"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.19 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2020M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "7.30333333333333"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                7.30333333333333 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.0725"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.0725 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2020M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2020M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2018M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2018M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2018M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2004M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2004M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2004M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2014M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2014M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2014M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2010M06>
         <http://www.w3.org/ns/r2rml#Year>
-                "2010M06"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2010M06"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2019M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2019M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2019M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2005M11>
         <http://www.w3.org/ns/r2rml#Year>
-                "2005M11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2005M11"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2015M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2015M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2015M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2011M07>
         <http://www.w3.org/ns/r2rml#Year>
-                "2011M07"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2011M07"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2021M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2021M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2021M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2009M03>
         <http://www.w3.org/ns/r2rml#Year>
-                "2009M03"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2009M03"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2007M05>
         <http://www.w3.org/ns/r2rml#Year>
-                "2007M05"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2007M05"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2017M02>
         <http://www.w3.org/ns/r2rml#Year>
-                "2017M02"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2017M02"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2008M10>
         <http://www.w3.org/ns/r2rml#Year>
-                "2008M10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2008M10"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2003M04>
         <http://www.w3.org/ns/r2rml#Year>
-                "2003M04"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2003M04"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2013M01>
         <http://www.w3.org/ns/r2rml#Year>
-                "2013M01"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2013M01"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2006M12>
         <http://www.w3.org/ns/r2rml#ConsumerInterestRate>
-                "6.6025"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                6.6025 ;
         <http://www.w3.org/ns/r2rml#VariableInterestRate>
-                "3.97"^^<http://www.w3.org/2001/XMLSchema#integer> ;
+                3.97 ;
         <http://www.w3.org/ns/r2rml#Year>
-                "2006M12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2006M12"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2016M09>
         <http://www.w3.org/ns/r2rml#Year>
-                "2016M09"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2016M09"^^<http://www.w3.org/2001/XMLSchema#decimal> .
 
 <http://example.com/InterestRates_2012M08>
         <http://www.w3.org/ns/r2rml#Year>
-                "2012M08"^^<http://www.w3.org/2001/XMLSchema#integer> .
+                "2012M08"^^<http://www.w3.org/2001/XMLSchema#decimal> .

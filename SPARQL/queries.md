@@ -225,19 +225,26 @@ WHERE
 ---
 
 ```
-select ?priceInGalway where {
+select ?pricesInGalway where {
 	{
-                SELECT (MAX(?ir) AS ?maxir) WHERE
+# Find the average interest rate
+                SELECT (AVG(?ir) AS ?avgInterestRate) WHERE
                 {
                     ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .
                 }
     }
-    ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?maxir .
-    ?irObj <http://www.w3.org/ns/r2rml#Year> ?yearWithMonth.
-    BIND (xsd:integer(STRBEFORE(STR(?yearWithMonth), "M")) as ?yearWithHighestIR) .
-    ?newHouseSubj <http://www.w3.org/2001/XMLSchema#gYear> ?yearWithHighestIR.
+#   Filter Interest Rates that are over the average IR
+    ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?interestRates .
+    FILTER(?interestRates > ?avgInterestRate).
+
+#   Find the years with the higher IRs
+	?irObj <http://www.w3.org/ns/r2rml#Year> ?yearWithMonth.
+    BIND (xsd:integer(STRBEFORE(STR(?yearWithMonth), "M")) as ?yearWithHigherIR) .
+
+#   Find the prices of new houses in Galway in those years
+    ?newHouseSubj <http://www.w3.org/2001/XMLSchema#gYear> ?yearWithHigherIR.
     ?newHouseSubj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> "GALWAY".
-    ?newHouseSubj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?priceInGalway.
+    ?newHouseSubj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?pricesInGalway.
 }
 ```
 

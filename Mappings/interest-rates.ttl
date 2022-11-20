@@ -19,7 +19,7 @@
 		rr:predicate rr:ConsumerInterestRate ;
 		rr:objectMap [ 
 			rr:column "AVERAGECONSUMERINTERESTRATE";
-			rr:datatype xsd:integer
+			rr:datatype xsd:decimal
 		]
 	] ;
 	
@@ -27,7 +27,7 @@
 		rr:predicate rr:VariableInterestRate ;
 		rr:objectMap [
 			rr:column "AVERAGEINTERESTRATE" ;
-			rr:datatype xsd:integer
+			rr:datatype xsd:decimal
 		]
 	] ;
 
@@ -35,7 +35,7 @@
 		rr:predicate rr:Year ;
 		rr:objectMap [
 			rr:column "MONTH" ;
-			rr:datatype xsd:integer
+			rr:datatype xsd:decimal
 		]
 	] ;
 .

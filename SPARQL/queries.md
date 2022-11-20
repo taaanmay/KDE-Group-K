@@ -210,12 +210,23 @@ WHERE
 
 ---
 
-### 9 - What were the average property prices for second hand homes in Dublin when the total value of loans approved for second hand homes for the year was over €10,000,000,000 (10 billion)?
+### 9 - What were the average value of a loan approved by Dublin Banks for second hand homes in Dublin when the total value of loans approved for second hand homes for the year was over €10,000,000,000 (10 billion)?
 
 ---
 
 ```
- QUERY HERE
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT
+?year ?loansApprovedByDublinBanks
+WHERE
+{
+    ?laObj <http://example.com/ns#OtherHouseValue> ?housesValue .
+    BIND((?housesValue * 1000000.0) AS ?totalValue) .
+    FILTER(?totalValue > 10000000000.0) .
+    ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year .
+    ?shHouses <http://www.w3.org/2001/XMLSchema#gYear> ?year .
+    ?shHouses <http://example.com/ns#ApprovedByDublinBanks> ?loansApprovedByDublinBanks .
+}
 ```
 
 ---

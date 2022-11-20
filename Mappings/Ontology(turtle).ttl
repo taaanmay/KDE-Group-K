@@ -104,6 +104,11 @@
   rdfs:domain   ex:AvgYearlyInterestRate ;
   rdfs:range xsd:gYear .
 
+  ex:ContainsRegion
+  a owl:TransitiveProperty ;
+  rdfs:domain ex:Region ;
+  rdfs:range ex:Region .
+
   ex:VariableInterestRateValue
   a owl:FunctionalProperty ;
   rdfs:domain   ex:AvgYearlyInterestRate ;

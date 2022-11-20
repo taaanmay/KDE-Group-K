@@ -10,13 +10,21 @@
   </owl:Ontology>
 
   <owl:FunctionalProperty rdf:about="http://example.com/ns#HouseYear">
-    <rdfs:domain rdf:resource="http://example.com/ns#AvgHousePrice"/>
-    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear"/>
+    <rdfs:domain rdf:resource="http://example.com/ns#AvgHousePrice">
+		<owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+	</rdfs:domain>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear">
+		<owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+	</rdfs:range>
   </owl:FunctionalProperty>
 
   <owl:ObjectProperty rdf:about="http://example.com/ns#HouseValue">
-    <rdfs:domain rdf:resource="http://example.com/ns#AvgHousePrice"/>
-    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+    <rdfs:domain rdf:resource="http://example.com/ns#AvgHousePrice">
+		<owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+	</rdfs:domain
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger">
+		<owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+	</rdfs:range>
   </owl:ObjectProperty>
 
   <owl:FunctionalProperty rdf:about="http://example.com/ns#HouseRegion">
@@ -25,8 +33,12 @@
   </owl:FunctionalProperty>
 
   <owl:ObjectProperty rdf:about="http://example.com/ns#LoanApprovalsYear">
-    <rdfs:domain rdf:resource="http://example.com/ns#LoanApprovals"/>
-    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear"/>
+    <rdfs:domain rdf:resource="http://example.com/ns#LoanApprovals">
+		<owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+	</rdfs:domain>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear">
+		<owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+	</rdfs:range>
   </owl:ObjectProperty>
 
   <owl:FunctionalProperty rdf:about="http://example.com/ns#LoanApprovalsTotal">
@@ -106,6 +118,11 @@
     <rdfs:domain rdf:resource="http://example.com/ns#AvgYearlyInterestRate"/>
     <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear"/>
   </owl:FunctionalProperty>
+
+  <owl:TransitiveProperty rdf:about="http://example.com/ns#ContainsRegion">
+    <rdfs:domain rdf:resource="http://example.com/ns#Region"/>
+    <rdfs:range rdf:resource="http://example.com/ns#Region"/>
+  </owl:TransitiveProperty>
 
   <owl:FunctionalProperty rdf:about="http://example.com/ns#VariableInterestRateValue">
     <rdfs:domain rdf:resource="http://example.com/ns#AvgYearlyInterestRate"/>

@@ -1,0 +1,181 @@
+@prefix : <https://www.w3.org/TR/2004/REC-owl-guide-20040210/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://www.w3.org/TR/2004/REC-owl-guide-20040210/> .
+
+<https://www.w3.org/TR/2004/REC-owl-guide-20040210/> rdf:type owl:Ontology ;
+                                                      rdfs:comment "Group K Ontology" ,
+                                                                   "To make the document more readable and accessible to the reader, some classes and properties have been omitted." ;
+                                                      rdfs:label "Group K Ontology" .
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.w3.org/2001/XMLSchema#gYear
+xsd:gYear rdf:type rdfs:Datatype .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://example.com/ns#ApprovedBy
+<http://example.com/ns#ApprovedBy> rdf:type owl:ObjectProperty ;
+                                   rdfs:domain <http://example.com/ns#SecondHandHousePrice> .
+
+
+###  http://example.com/ns#HouseRegion
+<http://example.com/ns#HouseRegion> rdf:type owl:ObjectProperty ,
+                                             owl:FunctionalProperty ;
+                                    rdfs:domain <http://example.com/ns#AvgHousePrice> ;
+                                    rdfs:range <http://example.com/ns#Region> .
+
+
+###  http://example.com/ns#HouseValue
+<http://example.com/ns#HouseValue> rdf:type owl:ObjectProperty ;
+                                   rdfs:domain <http://example.com/ns#AvgHousePrice> .
+
+
+###  http://example.com/ns#HouseYear
+<http://example.com/ns#HouseYear> rdf:type owl:ObjectProperty ,
+                                           owl:FunctionalProperty ;
+                                  rdfs:domain <http://example.com/ns#AvgHousePrice> .
+
+
+###  http://example.com/ns#LoanApprovalsYear
+<http://example.com/ns#LoanApprovalsYear> rdf:type owl:ObjectProperty ;
+                                          rdfs:domain <http://example.com/ns#LoanApprovals> .
+
+
+###  http://example.com/ns#LocatedIn
+<http://example.com/ns#LocatedIn> rdf:type owl:ObjectProperty ,
+                                           owl:InverseFunctionalProperty ;
+                                  rdfs:domain <http://example.com/ns#Region> ;
+                                  rdfs:range <http://example.com/ns#SchoolProgramme> .
+
+
+###  http://example.com/ns#ProgrammeName
+<http://example.com/ns#ProgrammeName> rdf:type owl:ObjectProperty ;
+                                      rdfs:domain <http://example.com/ns#SchoolProgramme> .
+
+
+###  http://example.com/ns#RegionName
+<http://example.com/ns#RegionName> rdf:type owl:ObjectProperty ;
+                                   rdfs:domain <http://example.com/ns#Region> .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://example.com/ns#ApprovedBy
+<http://example.com/ns#ApprovedBy> rdf:type owl:DatatypeProperty ;
+                                   rdfs:range xsd:string .
+
+
+###  http://example.com/ns#HouseValue
+<http://example.com/ns#HouseValue> rdf:type owl:DatatypeProperty ;
+                                   rdfs:range xsd:positiveInteger .
+
+
+###  http://example.com/ns#HouseYear
+<http://example.com/ns#HouseYear> rdf:type owl:DatatypeProperty ,
+                                           owl:FunctionalProperty ;
+                                  rdfs:range xsd:gYear .
+
+
+###  http://example.com/ns#InterestRateValue
+<http://example.com/ns#InterestRateValue> rdf:type owl:DatatypeProperty ,
+                                                   owl:FunctionalProperty ;
+                                          rdfs:domain <http://example.com/ns#AvgYearlyInterestRate> ;
+                                          rdfs:range xsd:double .
+
+
+###  http://example.com/ns#InterestRateYear
+<http://example.com/ns#InterestRateYear> rdf:type owl:DatatypeProperty ,
+                                                  owl:FunctionalProperty ;
+                                         rdfs:domain <http://example.com/ns#AvgYearlyInterestRate> ;
+                                         rdfs:range xsd:gYear .
+
+
+###  http://example.com/ns#LoanApprovalsYear
+<http://example.com/ns#LoanApprovalsYear> rdf:type owl:DatatypeProperty ;
+                                          rdfs:range xsd:gYear .
+
+
+###  http://example.com/ns#ProgramAttendees
+<http://example.com/ns#ProgramAttendees> rdf:type owl:DatatypeProperty ,
+                                                  owl:FunctionalProperty ;
+                                         rdfs:domain <http://example.com/ns#SchoolProgramme> ;
+                                         rdfs:range xsd:positiveInteger .
+
+
+###  http://example.com/ns#ProgramClasses
+<http://example.com/ns#ProgramClasses> rdf:type owl:DatatypeProperty ,
+                                                owl:FunctionalProperty ;
+                                       rdfs:domain <http://example.com/ns#SchoolProgramme> ;
+                                       rdfs:range xsd:positiveInteger .
+
+
+###  http://example.com/ns#ProgrammeName
+<http://example.com/ns#ProgrammeName> rdf:type owl:DatatypeProperty ;
+                                      rdfs:range xsd:string .
+
+
+###  http://example.com/ns#ProgrammeYear
+<http://example.com/ns#ProgrammeYear> rdf:type owl:DatatypeProperty ,
+                                               owl:FunctionalProperty ;
+                                      rdfs:domain <http://example.com/ns#SchoolProgramme> ;
+                                      rdfs:range xsd:gYear .
+
+
+###  http://example.com/ns#RegionName
+<http://example.com/ns#RegionName> rdf:type owl:DatatypeProperty ;
+                                   rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://example.com/ns#AvgHousePrice
+<http://example.com/ns#AvgHousePrice> rdf:type owl:Class .
+
+
+###  http://example.com/ns#AvgNewHousePrice
+<http://example.com/ns#AvgNewHousePrice> rdf:type owl:Class ;
+                                         rdfs:subClassOf <http://example.com/ns#AvgHousePrice> ;
+                                         owl:disjointWith <http://example.com/ns#SecondHandHousePrice> .
+
+
+###  http://example.com/ns#AvgYearlyInterestRate
+<http://example.com/ns#AvgYearlyInterestRate> rdf:type owl:Class .
+
+
+###  http://example.com/ns#County
+<http://example.com/ns#County> rdf:type owl:Class ;
+                               rdfs:subClassOf <http://example.com/ns#Region> .
+
+
+###  http://example.com/ns#LoanApprovals
+<http://example.com/ns#LoanApprovals> rdf:type owl:Class .
+
+
+###  http://example.com/ns#Region
+<http://example.com/ns#Region> rdf:type owl:Class .
+
+
+###  http://example.com/ns#SchoolProgramme
+<http://example.com/ns#SchoolProgramme> rdf:type owl:Class .
+
+
+###  http://example.com/ns#SecondHandHousePrice
+<http://example.com/ns#SecondHandHousePrice> rdf:type owl:Class ;
+                                             rdfs:subClassOf <http://example.com/ns#AvgHousePrice> .
+
+
+###  Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/

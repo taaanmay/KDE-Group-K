@@ -109,16 +109,12 @@
   rdfs:domain ex:Region ;
   rdfs:range ex:Region .
 
-  ex:VariableInterestRateValue
-  a owl:FunctionalProperty ;
-  rdfs:domain   ex:AvgYearlyInterestRate ;
-  rdfs:range xsd:double .
+  ex:VariableInterestRateValue a owl:Class;
+  rdfs:subClassOf   ex:AvgHousePrice .
   
-  ex:ConsumerInterestRateValue
-  a owl:FunctionalProperty ;
-  rdfs:domain   ex:AvgYearlyInterestRate ;
-  rdfs:range xsd:double .
-
+  ex:ConsumerInterestRateValue a owl:Class;
+  rdfs:subClassOf   ex:AvgHousePrice .
+  
   ex:SchoolProgramme a owl:Class .
   
   ex:Region a owl:Class .

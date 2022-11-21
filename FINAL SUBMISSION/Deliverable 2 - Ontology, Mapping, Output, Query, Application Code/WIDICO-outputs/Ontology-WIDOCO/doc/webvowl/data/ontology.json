@@ -1,0 +1,501 @@
+{
+  "_comment" : "Created with OWL2VOWL (version 0.3.5), http://vowl.visualdataweb.org",
+  "header" : {
+    "languages" : [ "undefined" ],
+    "baseIris" : [ "http://example.com/ns", "http://www.w3.org/2000/01/rdf-schema", "http://www.w3.org/2001/XMLSchema" ],
+    "iri" : "https://www.w3.org/TR/2004/REC-owl-guide-20040210/",
+    "labels" : {
+      "undefined" : "Group K Ontology"
+    },
+    "comments" : {
+      "undefined" : "Group K Ontology"
+    }
+  },
+  "namespace" : [ ],
+  "class" : [ {
+    "id" : "3",
+    "type" : "owl:Class"
+  }, {
+    "id" : "7",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "6",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "8",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "9",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "12",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "13",
+    "type" : "owl:Class"
+  }, {
+    "id" : "15",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "11",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "16",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "27",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "20",
+    "type" : "owl:Class"
+  }, {
+    "id" : "14",
+    "type" : "owl:Class"
+  }, {
+    "id" : "1",
+    "type" : "owl:Class"
+  }, {
+    "id" : "18",
+    "type" : "owl:Class"
+  }, {
+    "id" : "25",
+    "type" : "owl:Class"
+  }, {
+    "id" : "23",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "39",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "31",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "41",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "37",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "35",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "2",
+    "type" : "rdfs:Datatype"
+  }, {
+    "id" : "26",
+    "type" : "owl:Class"
+  }, {
+    "id" : "5",
+    "type" : "owl:Thing"
+  }, {
+    "id" : "42",
+    "type" : "rdfs:Datatype"
+  } ],
+  "classAttribute" : [ {
+    "iri" : "http://example.com/ns#LoanApprovals",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "LoanApprovals"
+    },
+    "attributes" : [ "external" ],
+    "id" : "3"
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#positiveInteger",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "7",
+    "label" : {
+      "IRI-based" : "positiveInteger"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#gYear",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "6",
+    "label" : {
+      "IRI-based" : "gYear"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#double",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "8",
+    "label" : {
+      "IRI-based" : "double"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#gYear",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "9",
+    "label" : {
+      "IRI-based" : "gYear"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#gYear",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "12",
+    "label" : {
+      "IRI-based" : "gYear"
+    }
+  }, {
+    "iri" : "http://example.com/ns#County",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "County"
+    },
+    "attributes" : [ "external" ],
+    "id" : "13",
+    "superClasses" : [ "14" ]
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#positiveInteger",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "15",
+    "label" : {
+      "IRI-based" : "positiveInteger"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#positiveInteger",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "11",
+    "label" : {
+      "IRI-based" : "positiveInteger"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "16",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "27",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  }, {
+    "iri" : "http://example.com/ns#AvgHousePrice",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "AvgHousePrice"
+    },
+    "subClasses" : [ "25", "26" ],
+    "attributes" : [ "external" ],
+    "id" : "20"
+  }, {
+    "iri" : "http://example.com/ns#Region",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "Region"
+    },
+    "subClasses" : [ "13" ],
+    "attributes" : [ "external" ],
+    "id" : "14"
+  }, {
+    "iri" : "http://example.com/ns#SchoolProgramme",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SchoolProgramme"
+    },
+    "attributes" : [ "external" ],
+    "id" : "1"
+  }, {
+    "iri" : "http://example.com/ns#AvgYearlyInterestRate",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "AvgYearlyInterestRate"
+    },
+    "attributes" : [ "external" ],
+    "id" : "18"
+  }, {
+    "iri" : "http://example.com/ns#AvgNewHousePrice",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "AvgNewHousePrice"
+    },
+    "attributes" : [ "external" ],
+    "id" : "25",
+    "superClasses" : [ "20" ]
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "23",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "39",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "31",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "41",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "37",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "35",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#gYear",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "2",
+    "label" : {
+      "IRI-based" : "gYear"
+    }
+  }, {
+    "iri" : "http://example.com/ns#SecondHandHousePrice",
+    "baseIri" : "http://example.com/ns",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "SecondHandHousePrice"
+    },
+    "attributes" : [ "external" ],
+    "id" : "26",
+    "superClasses" : [ "20" ]
+  }, {
+    "iri" : "http://www.w3.org/2002/07/owl#Thing",
+    "baseIri" : "http://owl2vowl.de",
+    "id" : "5",
+    "label" : {
+      "undefined" : "Thing"
+    }
+  }, {
+    "iri" : "http://www.w3.org/2001/XMLSchema#string",
+    "baseIri" : "http://www.w3.org/2001/XMLSchema",
+    "id" : "42",
+    "label" : {
+      "IRI-based" : "string"
+    }
+  } ],
+  "property" : [ {
+    "id" : "0",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "4",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "10",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "17",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "19",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "21",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "22",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "24",
+    "type" : "owl:disjointWith"
+  }, {
+    "id" : "28",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "29",
+    "type" : "rdfs:SubClassOf"
+  }, {
+    "id" : "30",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "32",
+    "type" : "owl:datatypeProperty"
+  }, {
+    "id" : "33",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "34",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "36",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "38",
+    "type" : "owl:objectProperty"
+  }, {
+    "id" : "40",
+    "type" : "rdfs:SubClassOf"
+  } ],
+  "propertyAttribute" : [ {
+    "iri" : "http://example.com/ns#ProgrammeYear",
+    "baseIri" : "http://example.com/ns",
+    "range" : "2",
+    "label" : {
+      "IRI-based" : "ProgrammeYear"
+    },
+    "domain" : "1",
+    "attributes" : [ "functional", "external", "datatype" ],
+    "id" : "0"
+  }, {
+    "iri" : "http://example.com/ns#HouseYear",
+    "baseIri" : "http://example.com/ns",
+    "range" : "6",
+    "label" : {
+      "IRI-based" : "HouseYear"
+    },
+    "domain" : "5",
+    "attributes" : [ "functional", "external", "datatype" ],
+    "id" : "4"
+  }, {
+    "iri" : "http://example.com/ns#ProgramClasses",
+    "baseIri" : "http://example.com/ns",
+    "range" : "11",
+    "label" : {
+      "IRI-based" : "ProgramClasses"
+    },
+    "domain" : "1",
+    "attributes" : [ "functional", "external", "datatype" ],
+    "id" : "10"
+  }, {
+    "iri" : "http://example.com/ns#InterestRateYear",
+    "baseIri" : "http://example.com/ns",
+    "range" : "9",
+    "label" : {
+      "IRI-based" : "InterestRateYear"
+    },
+    "domain" : "18",
+    "attributes" : [ "functional", "external", "datatype" ],
+    "id" : "17"
+  }, {
+    "iri" : "http://example.com/ns#HouseRegion",
+    "baseIri" : "http://example.com/ns",
+    "range" : "14",
+    "label" : {
+      "IRI-based" : "HouseRegion"
+    },
+    "domain" : "20",
+    "attributes" : [ "functional", "object", "external" ],
+    "id" : "19"
+  }, {
+    "iri" : "http://example.com/ns#InterestRateValue",
+    "baseIri" : "http://example.com/ns",
+    "range" : "8",
+    "label" : {
+      "IRI-based" : "InterestRateValue"
+    },
+    "domain" : "18",
+    "attributes" : [ "functional", "external", "datatype" ],
+    "id" : "21"
+  }, {
+    "iri" : "http://example.com/ns#RegionName",
+    "baseIri" : "http://example.com/ns",
+    "range" : "23",
+    "label" : {
+      "IRI-based" : "RegionName"
+    },
+    "domain" : "14",
+    "attributes" : [ "object", "external" ],
+    "id" : "22"
+  }, {
+    "range" : "26",
+    "domain" : "25",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "24"
+  }, {
+    "range" : "14",
+    "domain" : "13",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "28"
+  }, {
+    "range" : "20",
+    "domain" : "26",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "29"
+  }, {
+    "iri" : "http://example.com/ns#HouseValue",
+    "baseIri" : "http://example.com/ns",
+    "range" : "31",
+    "label" : {
+      "IRI-based" : "HouseValue"
+    },
+    "domain" : "20",
+    "attributes" : [ "object", "external" ],
+    "id" : "30"
+  }, {
+    "iri" : "http://example.com/ns#ProgramAttendees",
+    "baseIri" : "http://example.com/ns",
+    "range" : "15",
+    "label" : {
+      "IRI-based" : "ProgramAttendees"
+    },
+    "domain" : "1",
+    "attributes" : [ "functional", "external", "datatype" ],
+    "id" : "32"
+  }, {
+    "iri" : "http://example.com/ns#LocatedIn",
+    "baseIri" : "http://example.com/ns",
+    "range" : "1",
+    "label" : {
+      "IRI-based" : "LocatedIn"
+    },
+    "domain" : "14",
+    "attributes" : [ "inverse functional", "object", "external" ],
+    "id" : "33"
+  }, {
+    "iri" : "http://example.com/ns#LoanApprovalsYear",
+    "baseIri" : "http://example.com/ns",
+    "range" : "35",
+    "label" : {
+      "IRI-based" : "LoanApprovalsYear"
+    },
+    "domain" : "3",
+    "attributes" : [ "object", "external" ],
+    "id" : "34"
+  }, {
+    "iri" : "http://example.com/ns#ProgrammeName",
+    "baseIri" : "http://example.com/ns",
+    "range" : "37",
+    "label" : {
+      "IRI-based" : "ProgrammeName"
+    },
+    "domain" : "1",
+    "attributes" : [ "object", "external" ],
+    "id" : "36"
+  }, {
+    "iri" : "http://example.com/ns#ApprovedBy",
+    "baseIri" : "http://example.com/ns",
+    "range" : "39",
+    "label" : {
+      "IRI-based" : "ApprovedBy"
+    },
+    "domain" : "26",
+    "attributes" : [ "object", "external" ],
+    "id" : "38"
+  }, {
+    "range" : "20",
+    "domain" : "25",
+    "attributes" : [ "object", "anonymous" ],
+    "id" : "40"
+  } ]
+}

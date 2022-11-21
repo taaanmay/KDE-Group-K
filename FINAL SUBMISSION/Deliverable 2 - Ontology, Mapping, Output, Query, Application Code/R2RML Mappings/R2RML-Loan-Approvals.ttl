@@ -1,0 +1,60 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix ex: <http://example.com/ns#>. 
+
+<#LoanApprovals>
+ 
+rr:logicalTable [ rr:tableName "LOANAPPROVALS"];
+	
+	rr:subjectMap [
+		rr:template "http://groupj.knowledgegraph/LoanApproval/{YEAR}";
+		rr:termType rr:IRI;
+		rr:class dbpedia:year ;
+	] ;		
+	
+	rr:predicateObjectMap [
+		rr:predicate xsd:gYear ;
+		rr:objectMap [ rr:column "YEAR";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:NewHouses ;
+		rr:objectMap [ rr:column "New Houses Number";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:OtherHouses ;
+		rr:objectMap [ rr:column "Other Houses Number";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:TotalHouses ;
+		rr:objectMap [ rr:column "Total Houses Number";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:NewHouseValue ;
+		rr:objectMap [ rr:column "New Houses Value (m)";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:OtherHouseValue ;
+		rr:objectMap [ rr:column "Other Houses Value (m)";
+					   rr:datatype xsd:integer ]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate ex:TotalHouseValue ;
+		rr:objectMap [ rr:column "Total Houses Value (m)";
+					   rr:datatype xsd:integer ]
+	] ;
+ .

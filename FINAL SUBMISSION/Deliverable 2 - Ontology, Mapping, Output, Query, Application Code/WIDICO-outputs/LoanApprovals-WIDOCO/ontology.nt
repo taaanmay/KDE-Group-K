@@ -1,0 +1,95 @@
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+# 
+# 
+# #################################################################
+# #
+# #    Annotation properties
+# #
+# #################################################################
+# 
+# 
+# http://www.w3.org/ns/r2rml#class
+<http://www.w3.org/ns/r2rml#class> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#column
+<http://www.w3.org/ns/r2rml#column> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#datatype
+<http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#logicalTable
+<http://www.w3.org/ns/r2rml#logicalTable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#objectMap
+<http://www.w3.org/ns/r2rml#objectMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#predicate
+<http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#predicateObjectMap
+<http://www.w3.org/ns/r2rml#predicateObjectMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#subjectMap
+<http://www.w3.org/ns/r2rml#subjectMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#tableName
+<http://www.w3.org/ns/r2rml#tableName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#template
+<http://www.w3.org/ns/r2rml#template> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#termType
+<http://www.w3.org/ns/r2rml#termType> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Annotations
+# #
+# #################################################################
+# 
+# 
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#logicalTable> _:genid2 .
+_:genid2 <http://www.w3.org/ns/r2rml#tableName> "LOANAPPROVALS" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid3 .
+_:genid3 <http://www.w3.org/ns/r2rml#predicate> <http://example.com/ns#TotalHouses> .
+_:genid3 <http://www.w3.org/ns/r2rml#objectMap> _:genid4 .
+_:genid4 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid4 <http://www.w3.org/ns/r2rml#column> "Total Houses Number" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid5 .
+_:genid5 <http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/2001/XMLSchema#gYear> .
+_:genid5 <http://www.w3.org/ns/r2rml#objectMap> _:genid6 .
+_:genid6 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid6 <http://www.w3.org/ns/r2rml#column> "YEAR" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid7 .
+_:genid7 <http://www.w3.org/ns/r2rml#predicate> <http://example.com/ns#OtherHouseValue> .
+_:genid7 <http://www.w3.org/ns/r2rml#objectMap> _:genid8 .
+_:genid8 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid8 <http://www.w3.org/ns/r2rml#column> "Other Houses Value (m)" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid9 .
+_:genid9 <http://www.w3.org/ns/r2rml#predicate> <http://example.com/ns#NewHouseValue> .
+_:genid9 <http://www.w3.org/ns/r2rml#objectMap> _:genid10 .
+_:genid10 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid10 <http://www.w3.org/ns/r2rml#column> "New Houses Value (m)" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid11 .
+_:genid11 <http://www.w3.org/ns/r2rml#predicate> <http://example.com/ns#OtherHouses> .
+_:genid11 <http://www.w3.org/ns/r2rml#objectMap> _:genid12 .
+_:genid12 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid12 <http://www.w3.org/ns/r2rml#column> "Other Houses Number" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid13 .
+_:genid13 <http://www.w3.org/ns/r2rml#predicate> <http://example.com/ns#NewHouses> .
+_:genid13 <http://www.w3.org/ns/r2rml#objectMap> _:genid14 .
+_:genid14 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid14 <http://www.w3.org/ns/r2rml#column> "New Houses Number" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid15 .
+_:genid15 <http://www.w3.org/ns/r2rml#predicate> <http://example.com/ns#TotalHouseValue> .
+_:genid15 <http://www.w3.org/ns/r2rml#objectMap> _:genid16 .
+_:genid16 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid16 <http://www.w3.org/ns/r2rml#column> "Total Houses Value (m)" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals> <http://www.w3.org/ns/r2rml#subjectMap> _:genid17 .
+_:genid17 <http://www.w3.org/ns/r2rml#termType> <http://www.w3.org/ns/r2rml#IRI> .
+_:genid17 <http://www.w3.org/ns/r2rml#template> "http://groupj.knowledgegraph/LoanApproval/{YEAR}" .
+_:genid17 <http://www.w3.org/ns/r2rml#class> <http://dbpedia.org/ontology/year> .
+# 
+# Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/

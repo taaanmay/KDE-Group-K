@@ -1,0 +1,94 @@
+_:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+# 
+# 
+# #################################################################
+# #
+# #    Annotation properties
+# #
+# #################################################################
+# 
+# 
+# http://www.w3.org/ns/r2rml#column
+<http://www.w3.org/ns/r2rml#column> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#datatype
+<http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#language
+<http://www.w3.org/ns/r2rml#language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#logicalTable
+<http://www.w3.org/ns/r2rml#logicalTable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#objectMap
+<http://www.w3.org/ns/r2rml#objectMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#predicate
+<http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#predicateObjectMap
+<http://www.w3.org/ns/r2rml#predicateObjectMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#subjectMap
+<http://www.w3.org/ns/r2rml#subjectMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#tableName
+<http://www.w3.org/ns/r2rml#tableName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# http://www.w3.org/ns/r2rml#template
+<http://www.w3.org/ns/r2rml#template> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://www.w3.org/ns/r2rml#TriplesMap
+<http://www.w3.org/ns/r2rml#TriplesMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Individuals
+# #
+# #################################################################
+# 
+# 
+# file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/r2rml#TriplesMap> .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/ns/r2rml#logicalTable> _:genid2 .
+_:genid2 <http://www.w3.org/ns/r2rml#tableName> "NationalSchoolPupils" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid3 .
+_:genid3 <http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/ns/r2rml#Region> .
+_:genid3 <http://www.w3.org/ns/r2rml#objectMap> _:genid4 .
+_:genid4 <http://www.w3.org/ns/r2rml#language> "en" .
+_:genid4 <http://www.w3.org/ns/r2rml#column> "REGION" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid5 .
+_:genid5 <http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/ns/r2rml#ProgramClasses> .
+_:genid5 <http://www.w3.org/ns/r2rml#objectMap> _:genid6 .
+_:genid6 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid6 <http://www.w3.org/ns/r2rml#column> "NUMBEROFCLASSES" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid7 .
+_:genid7 <http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/ns/r2rml#ProgramAttendees> .
+_:genid7 <http://www.w3.org/ns/r2rml#objectMap> _:genid8 .
+_:genid8 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid8 <http://www.w3.org/ns/r2rml#column> "NUMBEROFPUPILS" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid9 .
+_:genid9 <http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/ns/r2rml#ProgrammeYear> .
+_:genid9 <http://www.w3.org/ns/r2rml#objectMap> _:genid10 .
+_:genid10 <http://www.w3.org/ns/r2rml#datatype> <http://www.w3.org/2001/XMLSchema#integer> .
+_:genid10 <http://www.w3.org/ns/r2rml#column> "YEAR" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid11 .
+_:genid11 <http://www.w3.org/ns/r2rml#predicate> <http://www.w3.org/ns/r2rml#ProgrammeName> .
+_:genid11 <http://www.w3.org/ns/r2rml#objectMap> _:genid12 .
+_:genid12 <http://www.w3.org/ns/r2rml#column> "SCHOOLPROGRAMME" .
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/national-school-pupils-mapping.ttl#AddressTripleMap> <http://www.w3.org/ns/r2rml#subjectMap> _:genid13 .
+_:genid13 <http://www.w3.org/ns/r2rml#template> "http://groupj.knowledgegraph/{REGION}/{YEAR}/{SCHOOLPROGRAMME}" .
+# 
+# Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/

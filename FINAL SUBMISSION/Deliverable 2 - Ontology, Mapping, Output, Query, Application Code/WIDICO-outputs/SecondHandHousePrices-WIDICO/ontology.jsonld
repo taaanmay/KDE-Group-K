@@ -1,0 +1,153 @@
+[ {
+  "@id" : "_:genid1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "_:genid10",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Average price of loans approved by National Banks & Building Societies"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid11",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid12"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#gYear"
+  } ]
+}, {
+  "@id" : "_:genid12",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "YEAR"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid13",
+  "http://www.w3.org/ns/r2rml#class" : [ {
+    "@id" : "http://dbpedia.org/ontology/year"
+  } ],
+  "http://www.w3.org/ns/r2rml#template" : [ {
+    "@value" : "http://groupj.knowledgegraph/SecondHandHousePrices/{YEAR}"
+  } ]
+}, {
+  "@id" : "_:genid2",
+  "http://www.w3.org/ns/r2rml#tableName" : [ {
+    "@value" : "SecondHandHousePrices"
+  } ]
+}, {
+  "@id" : "_:genid3",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid4"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#ApprovedByDublinLocalAuthorities"
+  } ]
+}, {
+  "@id" : "_:genid4",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Average price of loans approved by Dublin Local Authorities"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid5",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid6"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#ApprovedByDublinBanks"
+  } ]
+}, {
+  "@id" : "_:genid6",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Average price of loans approved by Dublin Banks & Building Societies"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid7",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid8"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#ApprovedByNationalLocalAuthorities"
+  } ]
+}, {
+  "@id" : "_:genid8",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Average price of loans approved by National Local Authorities"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid9",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid10"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#ApprovedByNationalBanks"
+  } ]
+}, {
+  "@id" : "file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/second-hand-house-prices.ttl#SecondHandHousesPricesMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
+  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+    "@id" : "http://www.w3.org/ns/r2rml#TriplesMap"
+  } ],
+  "http://www.w3.org/ns/r2rml#logicalTable" : [ {
+    "@id" : "_:genid2"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicateObjectMap" : [ {
+    "@id" : "_:genid3"
+  }, {
+    "@id" : "_:genid5"
+  }, {
+    "@id" : "_:genid7"
+  }, {
+    "@id" : "_:genid9"
+  }, {
+    "@id" : "_:genid11"
+  } ],
+  "http://www.w3.org/ns/r2rml#subjectMap" : [ {
+    "@id" : "_:genid13"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#TriplesMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#class",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#column",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#datatype",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#logicalTable",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#objectMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#predicate",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#predicateObjectMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#subjectMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#tableName",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#template",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+} ]

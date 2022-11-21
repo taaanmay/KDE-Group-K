@@ -1,0 +1,163 @@
+<https://www.w3.org/TR/2004/REC-owl-guide-20040210/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://www.w3.org/TR/2004/REC-owl-guide-20040210/> <http://www.w3.org/2000/01/rdf-schema#comment> "Group K Ontology" .
+<https://www.w3.org/TR/2004/REC-owl-guide-20040210/> <http://www.w3.org/2000/01/rdf-schema#comment> "To make the document more readable and accessible to the reader, some classes and properties have been omitted." .
+<https://www.w3.org/TR/2004/REC-owl-guide-20040210/> <http://www.w3.org/2000/01/rdf-schema#label> "Group K Ontology" .
+# 
+# 
+# #################################################################
+# #
+# #    Datatypes
+# #
+# #################################################################
+# 
+# 
+# http://www.w3.org/2001/XMLSchema#gYear
+<http://www.w3.org/2001/XMLSchema#gYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Datatype> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Object Properties
+# #
+# #################################################################
+# 
+# 
+# http://example.com/ns#ApprovedBy
+<http://example.com/ns#ApprovedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#ApprovedBy> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#SecondHandHousePrice> .
+# 
+# http://example.com/ns#HouseRegion
+<http://example.com/ns#HouseRegion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#HouseRegion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.com/ns#HouseRegion> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#AvgHousePrice> .
+<http://example.com/ns#HouseRegion> <http://www.w3.org/2000/01/rdf-schema#range> <http://example.com/ns#Region> .
+# 
+# http://example.com/ns#HouseValue
+<http://example.com/ns#HouseValue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#HouseValue> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#AvgHousePrice> .
+# 
+# http://example.com/ns#HouseYear
+<http://example.com/ns#HouseYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#HouseYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.com/ns#HouseYear> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#AvgHousePrice> .
+# 
+# http://example.com/ns#LoanApprovalsYear
+<http://example.com/ns#LoanApprovalsYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#LoanApprovalsYear> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#LoanApprovals> .
+# 
+# http://example.com/ns#LocatedIn
+<http://example.com/ns#LocatedIn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#LocatedIn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#InverseFunctionalProperty> .
+<http://example.com/ns#LocatedIn> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#Region> .
+<http://example.com/ns#LocatedIn> <http://www.w3.org/2000/01/rdf-schema#range> <http://example.com/ns#SchoolProgramme> .
+# 
+# http://example.com/ns#ProgrammeName
+<http://example.com/ns#ProgrammeName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#ProgrammeName> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#SchoolProgramme> .
+# 
+# http://example.com/ns#RegionName
+<http://example.com/ns#RegionName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://example.com/ns#RegionName> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#Region> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Data properties
+# #
+# #################################################################
+# 
+# 
+# http://example.com/ns#ApprovedBy
+<http://example.com/ns#ApprovedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#ApprovedBy> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+# 
+# http://example.com/ns#HouseValue
+<http://example.com/ns#HouseValue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#HouseValue> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#positiveInteger> .
+# 
+# http://example.com/ns#HouseYear
+<http://example.com/ns#HouseYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#HouseYear> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#gYear> .
+# 
+# http://example.com/ns#InterestRateValue
+<http://example.com/ns#InterestRateValue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#InterestRateValue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.com/ns#InterestRateValue> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#AvgYearlyInterestRate> .
+<http://example.com/ns#InterestRateValue> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#double> .
+# 
+# http://example.com/ns#InterestRateYear
+<http://example.com/ns#InterestRateYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#InterestRateYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.com/ns#InterestRateYear> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#AvgYearlyInterestRate> .
+<http://example.com/ns#InterestRateYear> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#gYear> .
+# 
+# http://example.com/ns#LoanApprovalsYear
+<http://example.com/ns#LoanApprovalsYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#LoanApprovalsYear> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#gYear> .
+# 
+# http://example.com/ns#ProgramAttendees
+<http://example.com/ns#ProgramAttendees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#ProgramAttendees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.com/ns#ProgramAttendees> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#SchoolProgramme> .
+<http://example.com/ns#ProgramAttendees> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#positiveInteger> .
+# 
+# http://example.com/ns#ProgramClasses
+<http://example.com/ns#ProgramClasses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#ProgramClasses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.com/ns#ProgramClasses> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#SchoolProgramme> .
+<http://example.com/ns#ProgramClasses> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#positiveInteger> .
+# 
+# http://example.com/ns#ProgrammeName
+<http://example.com/ns#ProgrammeName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#ProgrammeName> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+# 
+# http://example.com/ns#ProgrammeYear
+<http://example.com/ns#ProgrammeYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#ProgrammeYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<http://example.com/ns#ProgrammeYear> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.com/ns#SchoolProgramme> .
+<http://example.com/ns#ProgrammeYear> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#gYear> .
+# 
+# http://example.com/ns#RegionName
+<http://example.com/ns#RegionName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://example.com/ns#RegionName> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+# 
+# 
+# 
+# #################################################################
+# #
+# #    Classes
+# #
+# #################################################################
+# 
+# 
+# http://example.com/ns#AvgHousePrice
+<http://example.com/ns#AvgHousePrice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://example.com/ns#AvgNewHousePrice
+<http://example.com/ns#AvgNewHousePrice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://example.com/ns#AvgNewHousePrice> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://example.com/ns#AvgHousePrice> .
+<http://example.com/ns#AvgNewHousePrice> <http://www.w3.org/2002/07/owl#disjointWith> <http://example.com/ns#SecondHandHousePrice> .
+# 
+# http://example.com/ns#AvgYearlyInterestRate
+<http://example.com/ns#AvgYearlyInterestRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://example.com/ns#County
+<http://example.com/ns#County> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://example.com/ns#County> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://example.com/ns#Region> .
+# 
+# http://example.com/ns#LoanApprovals
+<http://example.com/ns#LoanApprovals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://example.com/ns#Region
+<http://example.com/ns#Region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://example.com/ns#SchoolProgramme
+<http://example.com/ns#SchoolProgramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# 
+# http://example.com/ns#SecondHandHousePrice
+<http://example.com/ns#SecondHandHousePrice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://example.com/ns#SecondHandHousePrice> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://example.com/ns#AvgHousePrice> .
+# 
+# Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/

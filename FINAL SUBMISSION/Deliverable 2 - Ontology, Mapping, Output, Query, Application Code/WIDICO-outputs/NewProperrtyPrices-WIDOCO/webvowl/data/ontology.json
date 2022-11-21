@@ -1,0 +1,59 @@
+{
+  "_comment" : "Created with OWL2VOWL (version 0.3.5), http://vowl.visualdataweb.org",
+  "header" : {
+    "baseIris" : [ "http://www.w3.org/2000/01/rdf-schema", "http://www.w3.org/2001/XMLSchema", "http://www.w3.org/ns/r2rml" ],
+    "iri" : "No IRI set"
+  },
+  "namespace" : [ ],
+  "class" : [ {
+    "id" : "0",
+    "type" : "owl:Class"
+  } ],
+  "classAttribute" : [ {
+    "iri" : "http://www.w3.org/ns/r2rml#TriplesMap",
+    "baseIri" : "http://www.w3.org/ns/r2rml",
+    "instances" : 0,
+    "label" : {
+      "IRI-based" : "TriplesMap"
+    },
+    "individuals" : [ {
+      "iri" : "file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/new-property-prices-with-regions.ttl#NewPropertyPricesMap",
+      "baseIri" : "file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/new-property-prices-with-regions.ttl",
+      "annotations" : {
+        "logicalTable" : [ {
+          "identifier" : "logicalTable",
+          "language" : "undefined",
+          "value" : "_:genid2147483679",
+          "type" : "label"
+        } ],
+        "predicateObjectMap" : [ {
+          "identifier" : "predicateObjectMap",
+          "language" : "undefined",
+          "value" : "_:genid2147483678",
+          "type" : "label"
+        }, {
+          "identifier" : "predicateObjectMap",
+          "language" : "undefined",
+          "value" : "_:genid2147483676",
+          "type" : "label"
+        }, {
+          "identifier" : "predicateObjectMap",
+          "language" : "undefined",
+          "value" : "_:genid2147483677",
+          "type" : "label"
+        } ],
+        "subjectMap" : [ {
+          "identifier" : "subjectMap",
+          "language" : "undefined",
+          "value" : "_:genid2147483680",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "NewPropertyPricesMap"
+      }
+    } ],
+    "attributes" : [ "external" ],
+    "id" : "0"
+  } ]
+}

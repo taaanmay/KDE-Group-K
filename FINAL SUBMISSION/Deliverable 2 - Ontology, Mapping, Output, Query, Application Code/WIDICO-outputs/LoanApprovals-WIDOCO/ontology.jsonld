@@ -1,0 +1,188 @@
+[ {
+  "@id" : "_:genid1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "_:genid10",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "New Houses Value (m)"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid11",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid12"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#OtherHouses"
+  } ]
+}, {
+  "@id" : "_:genid12",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Other Houses Number"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid13",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid14"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#NewHouses"
+  } ]
+}, {
+  "@id" : "_:genid14",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "New Houses Number"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid15",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid16"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#TotalHouseValue"
+  } ]
+}, {
+  "@id" : "_:genid16",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Total Houses Value (m)"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid17",
+  "http://www.w3.org/ns/r2rml#class" : [ {
+    "@id" : "http://dbpedia.org/ontology/year"
+  } ],
+  "http://www.w3.org/ns/r2rml#template" : [ {
+    "@value" : "http://groupj.knowledgegraph/LoanApproval/{YEAR}"
+  } ],
+  "http://www.w3.org/ns/r2rml#termType" : [ {
+    "@id" : "http://www.w3.org/ns/r2rml#IRI"
+  } ]
+}, {
+  "@id" : "_:genid2",
+  "http://www.w3.org/ns/r2rml#tableName" : [ {
+    "@value" : "LOANAPPROVALS"
+  } ]
+}, {
+  "@id" : "_:genid3",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid4"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#TotalHouses"
+  } ]
+}, {
+  "@id" : "_:genid4",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Total Houses Number"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid5",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid6"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#gYear"
+  } ]
+}, {
+  "@id" : "_:genid6",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "YEAR"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid7",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid8"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#OtherHouseValue"
+  } ]
+}, {
+  "@id" : "_:genid8",
+  "http://www.w3.org/ns/r2rml#column" : [ {
+    "@value" : "Other Houses Value (m)"
+  } ],
+  "http://www.w3.org/ns/r2rml#datatype" : [ {
+    "@id" : "http://www.w3.org/2001/XMLSchema#integer"
+  } ]
+}, {
+  "@id" : "_:genid9",
+  "http://www.w3.org/ns/r2rml#objectMap" : [ {
+    "@id" : "_:genid10"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicate" : [ {
+    "@id" : "http://example.com/ns#NewHouseValue"
+  } ]
+}, {
+  "@id" : "file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/R2RML-Loan-Approvals.ttl#LoanApprovals",
+  "http://www.w3.org/ns/r2rml#logicalTable" : [ {
+    "@id" : "_:genid2"
+  } ],
+  "http://www.w3.org/ns/r2rml#predicateObjectMap" : [ {
+    "@id" : "_:genid3"
+  }, {
+    "@id" : "_:genid5"
+  }, {
+    "@id" : "_:genid7"
+  }, {
+    "@id" : "_:genid9"
+  }, {
+    "@id" : "_:genid11"
+  }, {
+    "@id" : "_:genid13"
+  }, {
+    "@id" : "_:genid15"
+  } ],
+  "http://www.w3.org/ns/r2rml#subjectMap" : [ {
+    "@id" : "_:genid17"
+  } ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#class",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#column",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#datatype",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#logicalTable",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#objectMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#predicate",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#predicateObjectMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#subjectMap",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#tableName",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#template",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+}, {
+  "@id" : "http://www.w3.org/ns/r2rml#termType",
+  "@type" : [ "http://www.w3.org/2002/07/owl#AnnotationProperty" ]
+} ]

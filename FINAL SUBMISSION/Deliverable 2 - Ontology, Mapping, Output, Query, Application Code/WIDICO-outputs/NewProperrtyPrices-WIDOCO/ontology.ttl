@@ -1,0 +1,102 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.w3.org/2002/07/owl#> .
+
+[ rdf:type owl:Ontology
+ ] .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://www.w3.org/ns/r2rml#class
+<http://www.w3.org/ns/r2rml#class> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#column
+<http://www.w3.org/ns/r2rml#column> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#datatype
+<http://www.w3.org/ns/r2rml#datatype> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#logicalTable
+<http://www.w3.org/ns/r2rml#logicalTable> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#objectMap
+<http://www.w3.org/ns/r2rml#objectMap> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#predicate
+<http://www.w3.org/ns/r2rml#predicate> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#predicateObjectMap
+<http://www.w3.org/ns/r2rml#predicateObjectMap> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#subjectMap
+<http://www.w3.org/ns/r2rml#subjectMap> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#tableName
+<http://www.w3.org/ns/r2rml#tableName> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#template
+<http://www.w3.org/ns/r2rml#template> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/ns/r2rml#termType
+<http://www.w3.org/ns/r2rml#termType> rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.w3.org/ns/r2rml#TriplesMap
+<http://www.w3.org/ns/r2rml#TriplesMap> rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/new-property-prices-with-regions.ttl#NewPropertyPricesMap
+<file:/Users/isobelmahon/Desktop/Class/5th_Year/Knowledge%20and%20data/Repo/KDE-Group-K/Mappings/new-property-prices-with-regions.ttl#NewPropertyPricesMap> rdf:type owl:NamedIndividual ,
+                                                                                                                                                                     <http://www.w3.org/ns/r2rml#TriplesMap> ;
+                                                                                                                                                            <http://www.w3.org/ns/r2rml#logicalTable> [ <http://www.w3.org/ns/r2rml#tableName> "AnnualNewPropertyPricesWithRegions"
+                                                                                                                                                                                                      ] ;
+                                                                                                                                                            <http://www.w3.org/ns/r2rml#predicateObjectMap> _:genid3 ,
+                                                                                                                                                                                                            _:genid5 ,
+                                                                                                                                                                                                            _:genid7 ;
+                                                                                                                                                            <http://www.w3.org/ns/r2rml#subjectMap> _:genid9 .
+
+_:genid3 <http://www.w3.org/ns/r2rml#objectMap> _:genid4 ;
+          <http://www.w3.org/ns/r2rml#predicate> xsd:gYear .
+
+_:genid5 <http://www.w3.org/ns/r2rml#objectMap> [ <http://www.w3.org/ns/r2rml#column> "REGION"
+                                                 ] ;
+          <http://www.w3.org/ns/r2rml#predicate> <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> .
+
+_:genid7 <http://www.w3.org/ns/r2rml#objectMap> _:genid8 ;
+          <http://www.w3.org/ns/r2rml#predicate> <http://xmlns.com/foaf/0.1/NewPropertyPrices> .
+
+_:genid9 <http://www.w3.org/ns/r2rml#class> <http://dbpedia.org/ontology/year> ;
+          <http://www.w3.org/ns/r2rml#template> "http://groupj.knowledgegraph/{REGION}/{YEAR}" .
+
+_:genid4 <http://www.w3.org/ns/r2rml#column> "YEAR" ;
+          <http://www.w3.org/ns/r2rml#datatype> xsd:integer .
+
+_:genid8 <http://www.w3.org/ns/r2rml#column> "VALUE" ;
+          <http://www.w3.org/ns/r2rml#datatype> xsd:integer ;
+          <http://www.w3.org/ns/r2rml#termType> <http://www.w3.org/ns/r2rml#Literal> .
+
+
+###  Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/

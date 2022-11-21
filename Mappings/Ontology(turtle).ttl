@@ -121,6 +121,16 @@
   ex:County
   a owl:Class ;
   rdfs:subClassOf   ex:Region .
+  
+  ex:IncludesCounty a owl:ObjectProperty;
+  rdfs:domain ex:Region;
+  rdfs:range ex:County;
+  owl:inverseOf ex:BelongsToRegion.
+  
+  ex:BelongsToRegion a owl:ObjectProperty;
+  rdfs:domain ex:County;
+  rdfs:range ex:Region.
+  
 
   ex:AvgHousePrice a owl:Class .
   

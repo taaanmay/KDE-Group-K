@@ -129,6 +129,17 @@
     <rdfs:range rdf:resource="http://example.com/ns#VariableInterestRateValue"/>
   </owl:SymmetricProperty>
   
+  <owl:ObjectProperty rdf:about="http://example.com/ns#IncludesCounty">
+    <rdfs:domain rdf:resource="http://example.com/ns#Region"/>
+    <rdfs:range rdf:resource="http://example.com/ns#County"/>
+    <owl:inverseOf>
+      <owl:ObjectProperty rdf:about="http://example.com/ns#BelongsToRegion">
+        <rdfs:domain rdf:resource="http://example.com/ns#County"/>
+        <rdfs:range rdf:resource="http://example.com/ns#Region"/>
+      </owl:ObjectProperty>
+    </owl:inverseOf>
+  </owl:ObjectProperty>
+  
   <owl:Class rdf:about="http://example.com/ns#VariableInterestRateValue">
     <rdfs:subClassOf rdf:resource="http://example.com/ns#AvgHousePrice"/>
   </owl:Class>

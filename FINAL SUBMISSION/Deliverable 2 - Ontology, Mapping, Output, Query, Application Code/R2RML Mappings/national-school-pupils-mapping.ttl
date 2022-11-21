@@ -1,0 +1,58 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix ex: <http://example.com/ns#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+<#AddressTripleMap>
+	a rr:TriplesMap ;
+	rr:logicalTable [
+		rr:tableName "NationalSchoolPupils" 
+	] ;
+	rr:subjectMap [
+		rr:template "http://groupj.knowledgegraph/{REGION}/{YEAR}/{SCHOOLPROGRAMME}";
+		rdf:type owl:Class ;
+	] ;
+	
+	rr:predicateObjectMap [
+		rr:predicate rr:Region ;
+		rr:objectMap [ 
+			rr:column "REGION";
+			rr:language "en" ;
+		]
+	] ;
+	
+	rr:predicateObjectMap [
+		rr:predicate rr:ProgramClasses ;
+		rr:objectMap [
+			rr:column "NUMBEROFCLASSES" ;
+			rr:datatype xsd:integer
+		]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate rr:ProgramAttendees;
+		rr:objectMap [
+			rr:column "NUMBEROFPUPILS" ;
+			rr:datatype xsd:integer
+		]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate rr:ProgrammeYear ;
+		rr:objectMap [
+			rr:column "YEAR" ;
+			rr:datatype xsd:integer
+		]
+	] ;
+
+	rr:predicateObjectMap [
+		rr:predicate rr:ProgrammeName ;
+		rr:objectMap [
+			rr:column "SCHOOLPROGRAMME" ;
+		]
+	] ;
+	.
+
+	# Programme Name ?

@@ -1,0 +1,397 @@
+{
+	"q1": {
+		"queryStrings": [
+			{
+				"value": "SELECT DISTINCT ?year ?totalLoansApproved WHERE { ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir; <http://www.w3.org/ns/r2rml#Year> ?irYearStr. BIND(xsd:integer(STRBEFORE(STR(?irYearStr), 'M')) AS ?year) FILTER(?ir > '"
+			},
+			{
+				"value": "'^^xsd:decimal) ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved; xsd:gYear ?year.}"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "How many new homes were approved for loans when the annual interest rate was over "
+			},
+			{ "value": "?" }
+		],
+		"vars": {
+			"rateValue": {
+				"type": "number",
+				"value": "4.5"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "rateValue"],
+			["questionStrings", 1]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "rateValue"],
+			["queryStrings", 1]
+		]
+	},
+	"q2": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?year ?newPropertyPrice WHERE  { ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir . ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr . BIND (xsd:integer(STRBEFORE(STR(?irYearStr), 'M')) as ?year) . FILTER ( ?ir < "
+			},
+			{
+				"value": ") . ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+
+			{
+				"value": "' . ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newPropertyPrice . ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "What was the average price for new properties in "
+			},
+			{
+				"value": " when the interest rate was less than "
+			},
+			{ "value": "?" }
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "DUBLIN"
+			},
+			"rateValue": {
+				"type": "number",
+				"value": "3.0"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1],
+			["vars", "rateValue"],
+			["questionStrings", 2]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "rateValue"],
+			["queryStrings", 1],
+			["vars", "region"],
+			["queryStrings", 2]
+		]
+	},
+	"q3": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?totalLoansApproved ?year WHERE { ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+			{
+				"value": "' . ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp . FILTER ( ?npp > "
+			},
+			{
+				"value": " ) . FILTER ( ?npp < "
+			},
+			{
+				"value": " ) . ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year . ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "When the average new property price in "
+			},
+			{
+				"value": " was between "
+			},
+			{ "value": " and " },
+			{ "value": ", how many new loans were approved?" }
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "DUBLIN"
+			},
+			"upperBound": {
+				"type": "number",
+				"value": "250000"
+			},
+			"lowerBound": {
+				"type": "number",
+				"value": "200000"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1],
+			["vars", "lowerBound"],
+			["questionStrings", 2],
+			["vars", "upperBound"],
+			["questionStrings", 3]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1],
+			["vars", "lowerBound"],
+			["queryStrings", 2],
+			["vars", "upperBound"],
+			["queryStrings", 3]
+		]
+	},
+	"q4": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT (COUNT (DISTINCT ?year) AS ?Years) WHERE { ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+			{
+				"value": "' . ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp . FILTER ( ?npp > "
+			},
+			{
+				"value": " ) . ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year . ?laObj <http://example.com/ns#TotalHouses> ?totalLoansApproved .  FILTER ( ?totalLoansApproved > "
+			},
+			{
+				"value": " ) . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "For how many years between 1999 and 2015 were the property prices in "
+			},
+			{
+				"value": " above "
+			},
+			{ "value": " and there were more than " },
+			{ "value": " loans approved?" }
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "DUBLIN"
+			},
+			"lowerBoundPrices": {
+				"type": "number",
+				"value": "200000"
+			},
+			"lowerBoundLoans": {
+				"type": "number",
+				"value": "100000"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1],
+			["vars", "lowerBoundPrices"],
+			["questionStrings", 2],
+			["vars", "lowerBoundLoans"],
+			["questionStrings", 3]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1],
+			["vars", "lowerBoundPrices"],
+			["queryStrings", 2],
+			["vars", "lowerBoundLoans"],
+			["queryStrings", 3]
+		]
+	},
+	"q5": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?ir WHERE { { SELECT (MAX(?attendees) AS ?max) WHERE { ?schObj <http://www.w3.org/ns/r2rml#Region> '"
+			},
+			{
+				"value": "'@en . ?schObj <http://www.w3.org/ns/r2rml#ProgrammeName> ?programme . FILTER ( ?programme = 'All mainstream national school programmes' ) . ?schObj <http://www.w3.org/ns/r2rml#ProgramAttendees> ?attendees . } } ?schObj2 <http://www.w3.org/ns/r2rml#ProgramAttendees> ?max . ?schObj2 <http://www.w3.org/ns/r2rml#Region> ?region . ?schObj2 <http://www.w3.org/ns/r2rml#ProgrammeName> ?programme . FILTER ( ?programme = 'All mainstream national school programmes' ) . FILTER ( ?region = '"
+			},
+			{
+				"value": "'@en ) . ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr . BIND (xsd:integer(STRBEFORE(STR(?irYearStr), 'M')) as ?iryear) . ?schObj2 <http://www.w3.org/ns/r2rml#ProgrammeYear> ?year . filter (?iryear = ?year) ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr . ?irObj <http://www.w3.org/ns/r2rml#ConsumerInterestRate> ?ir . }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "In the year with the most national school pupils in "
+			},
+			{
+				"value": ", what was the consumer interest rate?"
+			}
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "Carlow"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1],
+			["vars", "region"],
+			["queryStrings", 2]
+		]
+	},
+	"q6": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?region WHERE { { SELECT (MAX(?npp) AS ?maxnpp) WHERE { { SELECT (MAX(?ir) AS ?maxir) WHERE { ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir . } } ?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?maxir . ?irObj <http://www.w3.org/ns/r2rml#Year> ?irYearStr . BIND (xsd:integer(STRBEFORE(STR(?irYearStr), 'M')) as ?year) . ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year . ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?npp . } } ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?maxnpp . ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> ?region . }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "Where were property prices highest when the interest rates were highest?"
+			}
+		],
+		"vars": {},
+		"questionBuilder": [["questionStrings", 0]],
+		"queryBuilder": [["queryStrings", 0]]
+	},
+	"q7": {
+		"queryStrings": [
+			{
+				"value": "select ?year ?averageLoanPrice where { ?years <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+			{
+				"value": "' . ?years <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newHousePrices . FILTER ( ?newHousePrices >= "
+			},
+			{
+				"value": ") . ?years <http://www.w3.org/2001/XMLSchema#gYear> ?year. ?oldHousesSubject <http://www.w3.org/2001/XMLSchema#gYear> ?year. ?oldHousesSubject <http://example.com/ns#ApprovedByNationalBanks> ?averageLoanPrice. } limit 100"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "What was the average price approved by national banks for second hand houses when "
+			},
+			{
+				"value": " new property price was greater than "
+			},
+			{ "value": "?" }
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "NATIONAL"
+			},
+			"lowerBound": {
+				"type": "number",
+				"value": "100000"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1],
+			["vars", "lowerBound"],
+			["questionStrings", 2]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1],
+			["vars", "lowerBound"],
+			["queryStrings", 2]
+		]
+	},
+	"q8": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT ?year ?newPropertyPrice WHERE { { { SELECT (MIN(?laChange) AS ?minlaChange) WHERE { ?laObj <http://example.com/ns#TotalHouses> ?la . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?laYear . BIND (?laYear - 1 AS ?lastyear) . ?laObjPrev <http://www.w3.org/2001/XMLSchema#gYear> ?lastyear . ?laObjPrev <http://example.com/ns#TotalHouses> ?laPrev . BIND (ABS(?la - ?laPrev) AS ?laChange) . } } ?laObj <http://example.com/ns#TotalHouses> ?la . ?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year . BIND (?year - 1 AS ?lastyear) . ?laObjPrev <http://www.w3.org/2001/XMLSchema#gYear> ?lastyear . ?laObjPrev <http://example.com/ns#TotalHouses> ?laPrev . BIND (ABS(?la - ?laPrev) AS ?laChange) . FILTER (?laChange = ?minlaChange) ?nppObj <http://www.w3.org/2001/XMLSchema#gYear> ?year . ?nppObj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+			{
+				"value": "' . ?nppObj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?newPropertyPrice . } }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "What was the average property price of new houses in "
+			},
+			{
+				"value": " in the year when loan approvals changed the least?"
+			}
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "DUBLIN"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1]
+		]
+	},
+	"q9": {
+		"queryStrings": [
+			{
+				"value": "PREFIX xsd: <http://www.w3.org/2001/XMLSchema#> SELECT DISTINCT ?year ?loansApprovedByDublinBanks WHERE{?laObj <http://example.com/ns#OtherHouseValue> ?housesValue .BIND((?housesValue * 1000000.0) AS ?totalValue) .FILTER(?totalValue > "
+			},
+			{
+				"value": ") .?laObj <http://www.w3.org/2001/XMLSchema#gYear> ?year .?shHouses <http://www.w3.org/2001/XMLSchema#gYear> ?year .?shHouses <http://example.com/ns#ApprovedByDublinBanks> ?loansApprovedByDublinBanks .}"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "What were the average value of a loan approved by Dublin Banks for second hand homes in Dublin when the total value of loans approved for second hand homes for the year was over €"
+			},
+			{ "value": "?" }
+		],
+		"vars": {
+			"lowerBound": {
+				"type": "number",
+				"value": "10000000000.0"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "lowerBound"],
+			["questionStrings", 1]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "lowerBound"],
+			["queryStrings", 1]
+		]
+	},
+	"q10": {
+		"queryStrings": [
+			{
+				"value": "select ?Prices where {{SELECT (AVG(?ir) AS ?avgInterestRate) WHERE{?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?ir .}}?irObj <http://www.w3.org/ns/r2rml#VariableInterestRate> ?interestRates .FILTER(?interestRates > ?avgInterestRate).?irObj <http://www.w3.org/ns/r2rml#Year> ?yearWithMonth.BIND (xsd:integer(STRBEFORE(STR(?yearWithMonth), 'M')) as ?yearWithHigherIR) .?newHouseSubj <http://www.w3.org/2001/XMLSchema#gYear> ?yearWithHigherIR.?newHouseSubj <http://xmlns.com/foaf/0.1/hasAddressRegion/Region> '"
+			},
+			{
+				"value": "'.?newHouseSubj <http://xmlns.com/foaf/0.1/NewPropertyPrices> ?Prices. }"
+			}
+		],
+		"questionStrings": [
+			{
+				"value": "What were the average prices for new properties in "
+			},
+			{
+				"value": " in years when interest rates were higher than all-time average interest rates (avg of interest rates 2003-2022)?"
+			}
+		],
+		"vars": {
+			"region": {
+				"type": "text",
+				"value": "GALWAY"
+			}
+		},
+		"questionBuilder": [
+			["questionStrings", 0],
+			["vars", "region"],
+			["questionStrings", 1]
+		],
+		"queryBuilder": [
+			["queryStrings", 0],
+			["vars", "region"],
+			["queryStrings", 1]
+		]
+	}
+}
